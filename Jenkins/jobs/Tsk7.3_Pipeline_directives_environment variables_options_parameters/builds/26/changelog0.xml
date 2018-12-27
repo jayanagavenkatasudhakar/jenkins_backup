@@ -1,0 +1,11 @@
+commit 1579acec88bfc173d0ad2c969611cdf03c488960
+tree 3d35b8b52fb6fba01acb20b8dbdf2bb1b7eb2597
+parent c455a871049e7928620c8e4b5896ac2f0e05b212
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 16:10:17 +0530
+committer GitHub <noreply@github.com> 2018-12-12 16:10:17 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 731df42ce424a03184a94eaab34cf1fc59893b8c b7f1c3589e11bd8cdc19c2484a4452ca6e2642f8 M	directives_jenkinsfile.txt

@@ -1,0 +1,50 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Tsk6.1_Freestyle_job_for_pull_and_transfer</upstreamProject>
+            <upstreamUrl>job/Tsk6.1_Freestyle_job_for_pull_and_transfer/</upstreamUrl>
+            <upstreamBuild>47</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UserIdCause>
+                <userId>jayanagavenkatasudhakar</userId>
+              </hudson.model.Cause_-UserIdCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Tsk6.1_Freestyle_job_for_pull_and_transfer</upstreamProject>
+            <upstreamUrl>job/Tsk6.1_Freestyle_job_for_pull_and_transfer/</upstreamUrl>
+            <upstreamBuild>48</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UserIdCause>
+                <userId>jayanagavenkatasudhakar</userId>
+              </hudson.model.Cause_-UserIdCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.tasks.MailMessageIdAction plugin="mailer@1.22">
+      <messageId>&lt;28019653.254.1545228993825.JavaMail.JAYANAGAVENKATA$@jayanagavenkatasudha&gt;</messageId>
+    </hudson.tasks.MailMessageIdAction>
+  </actions>
+  <queueId>1160</queueId>
+  <timestamp>1545228988145</timestamp>
+  <startTime>1545228988157</startTime>
+  <result>SUCCESS</result>
+  <duration>1005</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn>agent_mythili2</builtOn>
+  <workspace>D:\jenkins_jaya\workspace\Tsk6.2_Freestyle_job_building_and_testing</workspace>
+  <hudsonVersion>2.138.3</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

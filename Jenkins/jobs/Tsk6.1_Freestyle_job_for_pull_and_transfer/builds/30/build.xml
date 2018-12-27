@@ -1,0 +1,30 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>jayanagavenkatasudhakar</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.tasks.MailMessageIdAction plugin="mailer@1.22">
+      <messageId>&lt;20584833.70.1545134828663.JavaMail.JAYANAGAVENKATA$@jayanagavenkatasudha&gt;</messageId>
+    </hudson.tasks.MailMessageIdAction>
+  </actions>
+  <queueId>1028</queueId>
+  <timestamp>1545134806933</timestamp>
+  <startTime>1545134806946</startTime>
+  <result>FAILURE</result>
+  <duration>16980</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn>agent_mythili2</builtOn>
+  <workspace>C:\jenkins\rojith_ftp</workspace>
+  <hudsonVersion>2.138.3</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

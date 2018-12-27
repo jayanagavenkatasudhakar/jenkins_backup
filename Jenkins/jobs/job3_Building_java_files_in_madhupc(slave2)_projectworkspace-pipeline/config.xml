@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><flow-definition>
+  <description>testing java project downloaded in slave machine2</description>
+  <properties/>
+  <triggers/>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition">
+    <script>// Powered by Infostretch 
+
+timestamps {
+
+node ('agent_madhu') { 
+
+	stage ('job3_Building_java_files_in_madhupc(slave2)_projectworkspace - Build') {
+ 			// Batch build step
+bat """ 
+xcopy /hievry D:\ftp_folder\pipeline C:\Jenkins\pipeline_testing&#13;
+javac C:\Jenkins\pipeline_testing\Demo.java 
+ """ 
+	}
+	stage ('job4_testing_java_project - Build') {
+ 			// Batch build step
+bat """ 
+java Demo 
+ """ 
+	}
+}
+}</script>
+  </definition>
+</flow-definition>

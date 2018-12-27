@@ -1,0 +1,11 @@
+commit 323e6b2c26d00386cac26d95fc4c50a7b6f40af8
+tree f2fb8acc66f8f0154ff5a38e8051f599d510f0f0
+parent a17dc875cc553e02a528f866803b354d4f6005c0
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:35:03 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:35:03 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 e6487a2eb9dc40cfd79bd2a4078b2e68ed894e70 fdeeab2a604398455b5a6d0671489c8b13efbf7a M	declarative_parallel

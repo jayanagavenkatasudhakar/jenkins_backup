@@ -1,0 +1,1243 @@
+commit 995583e2c9f6c2e15e2bc10ddf39c0461cd002cc
+tree bc1986f8175e0d9d8eb5a5216c125a24f9dcf52b
+parent 21d6cda903a7c737f1b16a3b9741e333f99e2574
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-17 11:35:56 +0530
+committer GitHub <noreply@github.com> 2018-12-17 11:35:56 +0530
+
+    Update demo_jenkinsfile
+
+
+
+:100644 100644 25415e8e17061a75b8e5f8370e90ca7edc60c108 87c657206a54adc3c24b4fa621e2fc27071accd3 M	demo_jenkinsfile
+commit 21d6cda903a7c737f1b16a3b9741e333f99e2574
+tree b5b24670388586b0b074eeb633ff7f68a22554c3
+parent db8572319da51d721544c599b902022821c2ee47
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-17 11:32:58 +0530
+committer GitHub <noreply@github.com> 2018-12-17 11:32:58 +0530
+
+    Update Demo.java
+
+
+
+:100644 100644 11f5d2f915ed5d5f27bdeabd0ea6e59edd180d97 93ddcd02b43f78c9ec0285b48e4ea39234c6836a M	Demo.java
+commit db8572319da51d721544c599b902022821c2ee47
+tree ccbc8baf8e8d69eb1218b0ae79a0bb88e37c2f1f
+parent e96e1a06cb9f7aa95bc344b2c36e3f5295b1e8e4
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 19:00:54 +0530
+committer GitHub <noreply@github.com> 2018-12-14 19:00:54 +0530
+
+    Update Demo.java
+
+
+
+:100644 100644 7d22414d0a81e12b6d309701dca9043ebae26094 11f5d2f915ed5d5f27bdeabd0ea6e59edd180d97 M	Demo.java
+commit e96e1a06cb9f7aa95bc344b2c36e3f5295b1e8e4
+tree a18a68cd44a73c5a5660e4705a888db33c6c5862
+parent e44e84d897b167d3d9eb69e48f219b3fbc155873
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:29:12 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:29:12 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 4bf1bdf07d200ce950bd8a44ccc37836582b414a ddba4e0fff208f90e468248e055f7133681425de M	jenkins_total
+commit e44e84d897b167d3d9eb69e48f219b3fbc155873
+tree 04736b97f6f4b8e90b604a376c5bb317db74f8a4
+parent 08f61fd42e9028126fed06d5f8effcedd437bd66
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:28:55 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:28:55 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 5461f0c0c85f2b0e06c2f7728f334e67b6de694a 4bf1bdf07d200ce950bd8a44ccc37836582b414a M	jenkins_total
+commit 08f61fd42e9028126fed06d5f8effcedd437bd66
+tree 04c28d3ce4821a4c0fac7f1cd7054ef4bb6fc13e
+parent 1d8816770bb170c4df08dd53f42e452e8d35a8fe
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:28:00 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:28:00 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 0d7296b204ade10422819c2a16024d40855709d5 5461f0c0c85f2b0e06c2f7728f334e67b6de694a M	jenkins_total
+commit 1d8816770bb170c4df08dd53f42e452e8d35a8fe
+tree 72e2a6b10ec009cfef655353d24fa2bff1248285
+parent 8b5230eee91ada2d962a92f63fef3ab282a840f2
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:27:01 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:27:01 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 0729e7743896b4be506eb4fe681928e63f218dc5 0d7296b204ade10422819c2a16024d40855709d5 M	jenkins_total
+commit 8b5230eee91ada2d962a92f63fef3ab282a840f2
+tree 3a9ebae48d9981894805f19205a9f4cd0117857f
+parent 6776c32ae7d4b2af8fc8818a37733bb5be76711b
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:26:07 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:26:07 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 b1a78f3f77e159a0405b9e29e751373802f2bae1 0729e7743896b4be506eb4fe681928e63f218dc5 M	jenkins_total
+commit 6776c32ae7d4b2af8fc8818a37733bb5be76711b
+tree ec2696270db39e78540683aadb185947e52e44ce
+parent e03d493663c652c0f39c7c6db56abbf5a20f476b
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:25:12 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:25:12 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 2d7fc13cd057bdf62dd3a73ec0a919689e03d67f b1a78f3f77e159a0405b9e29e751373802f2bae1 M	jenkins_total
+commit e03d493663c652c0f39c7c6db56abbf5a20f476b
+tree 33635fb87b132a9c819e234e89b5c191aa01cc1d
+parent 102afd24c85b97733c3670af6a6bbee8a922c4f1
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:21:25 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:21:25 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 72cb4d08287e55fd7d3e55aa7863ed4333706464 2d7fc13cd057bdf62dd3a73ec0a919689e03d67f M	jenkins_total
+commit 102afd24c85b97733c3670af6a6bbee8a922c4f1
+tree d49249e8059dea536aca9f74453b7b3e3ccb3718
+parent 995df4a9fbdf0b3fca896b05e5ec17d30dbce0cf
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:18:16 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:18:16 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 89b2282707bd9a7a798fde8ab0b8ffa3ebad6858 72cb4d08287e55fd7d3e55aa7863ed4333706464 M	jenkins_total
+commit 995df4a9fbdf0b3fca896b05e5ec17d30dbce0cf
+tree a7fe092bc163e8c140cf6ef19f63700a6f76397e
+parent 34efe97e76381f7e09f11422e44d9344d03a5db4
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:16:45 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:16:45 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 fba0415633e31d2f5b759111945bde6351b0ca9d 89b2282707bd9a7a798fde8ab0b8ffa3ebad6858 M	jenkins_total
+commit 34efe97e76381f7e09f11422e44d9344d03a5db4
+tree 84d4631ad6dfe3946a109703038bbb409df42996
+parent 25cc0ad52350784cf7f45e7694f3499de2473c1f
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:14:31 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:14:31 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 c94a97f80b3fb102d23cf7cafce7ff0ca50bb7be fba0415633e31d2f5b759111945bde6351b0ca9d M	jenkins_total
+commit 25cc0ad52350784cf7f45e7694f3499de2473c1f
+tree a229fff704f48c6bc3066fb5d182f71b48408b87
+parent e75c792d49e7cdd30b2743e84b8219d629824818
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:10:53 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:10:53 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 9612c555909c128abb0e3e50f6c7a6bc6af67adc c94a97f80b3fb102d23cf7cafce7ff0ca50bb7be M	jenkins_total
+commit e75c792d49e7cdd30b2743e84b8219d629824818
+tree e3b2d2828fd1c35ad41a1fd4452234fd31eb673f
+parent 6b49b844ae794f0015ed977d7d5b3907c5cf11c9
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 15:10:07 +0530
+committer GitHub <noreply@github.com> 2018-12-14 15:10:07 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 42e13456ab983d0db757cf873a7bf5eb284ebc78 9612c555909c128abb0e3e50f6c7a6bc6af67adc M	jenkins_total
+commit 6b49b844ae794f0015ed977d7d5b3907c5cf11c9
+tree 2568ad456ff34b31b668ef083e76c40e513bf326
+parent bdc0d44e4409a265f3d4f382f7d92b762c251331
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:59:43 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:59:43 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 c9cd7d48bbfeee02e002f649c8663151445b82fe 42e13456ab983d0db757cf873a7bf5eb284ebc78 M	jenkins_total
+commit bdc0d44e4409a265f3d4f382f7d92b762c251331
+tree 9cfd3daf96fb45aa34554678443ba20a183d97b5
+parent 9ba93aa5c6de6571391021a02ab3f4d4f0ed52ec
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:58:54 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:58:54 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 290bcb8d7c6d9f11e8db60229bb52b1ccae2e6b5 c9cd7d48bbfeee02e002f649c8663151445b82fe M	jenkins_total
+commit 9ba93aa5c6de6571391021a02ab3f4d4f0ed52ec
+tree bad9b1ad0d6f06b09dc3d131ec12c84faabf59d9
+parent 5ee3a173ad4cef6a68631ab526842f6bbf17bc1e
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:57:47 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:57:47 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 926e32975bda5a6ffb54079e26398a95e5e0620f 290bcb8d7c6d9f11e8db60229bb52b1ccae2e6b5 M	jenkins_total
+commit 5ee3a173ad4cef6a68631ab526842f6bbf17bc1e
+tree 0508657da3ade6a956c0a20e3d436d5bdef61491
+parent 3cb958921b521bf9a6abff97abc19caef20838a1
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:53:59 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:53:59 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 8b2ae7a4b7b04e521fa142d0ccd1d4902be04765 926e32975bda5a6ffb54079e26398a95e5e0620f M	jenkins_total
+commit 3cb958921b521bf9a6abff97abc19caef20838a1
+tree 3e8dc73430ad1a23105fb16d91b00cbfd6516c7b
+parent c2c3708da5eb9e3c6eb4f15dcff5418b30a5f409
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:53:17 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:53:17 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 59de2d5f2ead423a3647eb087d9209c0ba77b988 8b2ae7a4b7b04e521fa142d0ccd1d4902be04765 M	jenkins_total
+commit c2c3708da5eb9e3c6eb4f15dcff5418b30a5f409
+tree b6e92260ff8245d6f6b63bcd252f0f0ee202090f
+parent 5d7db68fc5499cf9a3e944041787dd1878b1472a
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:49:26 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:49:26 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 a4ff84659fc76bb9289ed5483eb2961f36121303 59de2d5f2ead423a3647eb087d9209c0ba77b988 M	jenkins_total
+commit 5d7db68fc5499cf9a3e944041787dd1878b1472a
+tree 7ae29fa6f50d69269f2d9524aa9afc2a0151479a
+parent 6c3784abdc03b7deb50cd636162966f1bccea72f
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:48:07 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:48:07 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 c7d5c042f1994b56b58cd01bf5c981ce51d86160 a4ff84659fc76bb9289ed5483eb2961f36121303 M	jenkins_total
+commit 6c3784abdc03b7deb50cd636162966f1bccea72f
+tree 775eed71fff9c95d969d200934d6eefd7576497b
+parent fcd89f6c1cfe3da9014ea35f2f83d61d64294d75
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:42:25 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:42:25 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 6c436850aaaa7c068323a66f5c3b3935af698606 c7d5c042f1994b56b58cd01bf5c981ce51d86160 M	jenkins_total
+commit fcd89f6c1cfe3da9014ea35f2f83d61d64294d75
+tree 15874ec4195b207bed740c79246d9c7922a3b622
+parent 1af08d776f2737e5a8f74d063c0e164e3672cd78
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:41:39 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:41:39 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 12acab1c6b77347cf758af49c0dfd6e02bbb721f 6c436850aaaa7c068323a66f5c3b3935af698606 M	jenkins_total
+commit 1af08d776f2737e5a8f74d063c0e164e3672cd78
+tree 9bf1645a4dd593e4e621e52301059ab3ef300419
+parent 3280d7aa53abea3862142d44f4472aab595063fd
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:40:49 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:40:49 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 d5f620f0dae07eebcda69eec00197eceb85633bd 12acab1c6b77347cf758af49c0dfd6e02bbb721f M	jenkins_total
+commit 3280d7aa53abea3862142d44f4472aab595063fd
+tree 340e851815c8f37fc96c83c4891645e37c821947
+parent 60346c2a8f186ba8d4923aba5a3b85ae7afadf21
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:38:46 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:38:46 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 5ce33e3aab3bc5e62bde2366fe19f73cfa4cd5fd d5f620f0dae07eebcda69eec00197eceb85633bd M	jenkins_total
+commit 60346c2a8f186ba8d4923aba5a3b85ae7afadf21
+tree 0a61346ae4d1ea40bae0446a9df6c016370df796
+parent ea7ff063b49eecd31a50fc7612196041d9254b2b
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:37:29 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:37:29 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 20b3bab218839d083c5f9dce468d2905ed0b9273 5ce33e3aab3bc5e62bde2366fe19f73cfa4cd5fd M	jenkins_total
+commit ea7ff063b49eecd31a50fc7612196041d9254b2b
+tree eb0348c980a5d60fbdc1651a1a1c6be358070c60
+parent fdacf8adc14d6451635fbe4bbb4bf9bdca546f9e
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:33:39 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:33:39 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 0faa71d75fe41198b0d566e7b900df807e011005 20b3bab218839d083c5f9dce468d2905ed0b9273 M	jenkins_total
+commit fdacf8adc14d6451635fbe4bbb4bf9bdca546f9e
+tree e6f47a37db81425d50e0dcd1f424633ee687215c
+parent e84634ec830a200099d55fc0793faf19eb6249fd
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:31:58 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:31:58 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 f0c9e49ba45b30589e87d1f24f526f3ca1b91064 0faa71d75fe41198b0d566e7b900df807e011005 M	jenkins_total
+commit e84634ec830a200099d55fc0793faf19eb6249fd
+tree 2b5c34bfd4d3793b5bd8536770b24d94989d7acf
+parent 981e978b10abe42e9bb206a1352b9c57f9065e66
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:30:57 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:30:57 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 4e57eb212ea47c042d3e0ec5e17f977ce1bf751e f0c9e49ba45b30589e87d1f24f526f3ca1b91064 M	jenkins_total
+commit 981e978b10abe42e9bb206a1352b9c57f9065e66
+tree 654ac4c66435acb6e4420d7cb92c7323bba878d4
+parent 6a9b86deb04c2818b9e1ccae28ce37f2bce27517
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:29:29 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:29:29 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 488022c9ae83f73e55af565548589f917e4e127f 4e57eb212ea47c042d3e0ec5e17f977ce1bf751e M	jenkins_total
+commit 6a9b86deb04c2818b9e1ccae28ce37f2bce27517
+tree 1448f0d33dd1aba94e49ff1388611f703990703c
+parent 2f1e9e2fe765838f4c7571b670b2b17e0350cf7a
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 14:25:20 +0530
+committer GitHub <noreply@github.com> 2018-12-14 14:25:20 +0530
+
+    Update jenkins_total
+
+
+
+:100644 100644 fb9852254e4d8e6524c8f69e05f8ef45b2e45ab5 488022c9ae83f73e55af565548589f917e4e127f M	jenkins_total
+commit 2f1e9e2fe765838f4c7571b670b2b17e0350cf7a
+tree a21b21d39287bce56d139c0077c93d7d44e420d0
+parent 85da5ebaec603ddfda72618e5c3adaedbe16f01e
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 12:04:11 +0530
+committer GitHub <noreply@github.com> 2018-12-14 12:04:11 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 0a3580d446b6742c0c08f34acc7b2161caec0126 5f561bd59996e9f69574ba5979cd6ae963676e75 M	declarative_parallel
+commit 85da5ebaec603ddfda72618e5c3adaedbe16f01e
+tree d94f92d148b8a47cb7822b9627c25103b8c2ceb6
+parent d301763d39c317e5976d34631781d044e72129ee
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 12:02:30 +0530
+committer GitHub <noreply@github.com> 2018-12-14 12:02:30 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 5f4a48edf24a6ec769c0cb84485713bb91ed9a12 0a3580d446b6742c0c08f34acc7b2161caec0126 M	declarative_parallel
+commit d301763d39c317e5976d34631781d044e72129ee
+tree bac8798eeff0b6ae86a197a15e925558df4cc4f5
+parent f5905867bde8c1219bbdffa15eee790d43f1498b
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 12:00:34 +0530
+committer GitHub <noreply@github.com> 2018-12-14 12:00:34 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 be753cabd9cc3af2a72d2f1e2aa7ea32b29a9f46 5f4a48edf24a6ec769c0cb84485713bb91ed9a12 M	declarative_parallel
+commit f5905867bde8c1219bbdffa15eee790d43f1498b
+tree 3aa4123150182acd6f4a37f9f88b0eb3050b9524
+parent 13e8be42d66ebf61aeecd5c7192caf2ec946cbab
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:57:26 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:57:26 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 2f2a5c533418d71e2acabf5d3acb892df7643361 be753cabd9cc3af2a72d2f1e2aa7ea32b29a9f46 M	declarative_parallel
+commit 13e8be42d66ebf61aeecd5c7192caf2ec946cbab
+tree 4fd7bcf9b08827d6e31c95a4ddc0a5144ba43d73
+parent b6b2d6c3c28c3a41b9ec96939c7c931fae30a78a
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:55:51 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:55:51 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 e723861a2f78b1e9c355ce53333163ecfc138d34 2f2a5c533418d71e2acabf5d3acb892df7643361 M	declarative_parallel
+commit b6b2d6c3c28c3a41b9ec96939c7c931fae30a78a
+tree 9d98605e3f18a01dc381cdd8740786f1535c4b2e
+parent 94984a0652f5a8dc8b878c4fe0e7e04f47d7ef54
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:51:46 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:51:46 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 09c8775cae2d439548255247344305076cc5d36d e723861a2f78b1e9c355ce53333163ecfc138d34 M	declarative_parallel
+commit 94984a0652f5a8dc8b878c4fe0e7e04f47d7ef54
+tree 55e65e3c4db62bcaf3a9d42c3a4d0ef9125033ce
+parent 16d373bc615689807b0b9024d67a1d31a0e61c51
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:50:26 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:50:26 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 ce7224cf0bea952e6152ddd80e923cee4ca406d4 09c8775cae2d439548255247344305076cc5d36d M	declarative_parallel
+commit 16d373bc615689807b0b9024d67a1d31a0e61c51
+tree 3abac1c1786250c81f836ec52724b60ae2b39527
+parent 358bb2bd173cf6cb54301a4b1f790f1b3cc45c3d
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:45:50 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:45:50 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 7e8c474ad993b8de3be9c8ef87932d2064149980 ce7224cf0bea952e6152ddd80e923cee4ca406d4 M	declarative_parallel
+commit 358bb2bd173cf6cb54301a4b1f790f1b3cc45c3d
+tree 4c3e725df8696c2c01427ba8af1e725dc1ac9c03
+parent 24e3e2489038c7c0028972521de19ecc55557983
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:44:24 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:44:24 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 280d574b6eae3cfcc90c2f6e4c766f16e816a2a8 7e8c474ad993b8de3be9c8ef87932d2064149980 M	declarative_parallel
+commit 24e3e2489038c7c0028972521de19ecc55557983
+tree bb9d0cc589586f66f7c97101c3a0fd93f46eee9c
+parent 07119f839bb877d653b979c60a5f3c0bae05e968
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:43:16 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:43:16 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 d60733d53385c0976a21e25b0713cc493caeb9af 280d574b6eae3cfcc90c2f6e4c766f16e816a2a8 M	declarative_parallel
+commit 07119f839bb877d653b979c60a5f3c0bae05e968
+tree 6b6ff427a84a537f441c336d014e3bf0721f817c
+parent 818a456101e2078bb0770cba756fe68b52451256
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:39:41 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:39:41 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 975b3b9f4a4c9f3d24d65bcac9a5a4d501b451df d60733d53385c0976a21e25b0713cc493caeb9af M	declarative_parallel
+commit 818a456101e2078bb0770cba756fe68b52451256
+tree 0796540c54e3c3499c905383c4933897037c2f67
+parent 5f73699444ff58ee254ed8992f25e3e9b4dd7ec3
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:38:26 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:38:26 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 540da7c1b1df5008edf8e2f376bdf1b05afb8f1f 975b3b9f4a4c9f3d24d65bcac9a5a4d501b451df M	declarative_parallel
+commit 5f73699444ff58ee254ed8992f25e3e9b4dd7ec3
+tree adb896d1ee71b0e6ef0d16d6812a5e42c6038047
+parent db3966610f487787cdf768a59c08c7155a88efff
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:37:32 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:37:32 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 4ef655299aa73259dbe65dcdedeb10f6b09e1f97 540da7c1b1df5008edf8e2f376bdf1b05afb8f1f M	declarative_parallel
+commit db3966610f487787cdf768a59c08c7155a88efff
+tree 7d926b34bbbf9cdc874bf949fbda6e8ca481542c
+parent 323e6b2c26d00386cac26d95fc4c50a7b6f40af8
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:36:33 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:36:33 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 fdeeab2a604398455b5a6d0671489c8b13efbf7a 4ef655299aa73259dbe65dcdedeb10f6b09e1f97 M	declarative_parallel
+commit 323e6b2c26d00386cac26d95fc4c50a7b6f40af8
+tree f2fb8acc66f8f0154ff5a38e8051f599d510f0f0
+parent a17dc875cc553e02a528f866803b354d4f6005c0
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:35:03 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:35:03 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 e6487a2eb9dc40cfd79bd2a4078b2e68ed894e70 fdeeab2a604398455b5a6d0671489c8b13efbf7a M	declarative_parallel
+commit a17dc875cc553e02a528f866803b354d4f6005c0
+tree 685add7c9d3367c08924e5f7d738e1967fc0c847
+parent 9b9dc0d53a3c74b99c1a29af6d7061e8db26b26b
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-14 11:30:02 +0530
+committer GitHub <noreply@github.com> 2018-12-14 11:30:02 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 c6060dbac8d7c049fd20b083230cd9676bfc6868 e6487a2eb9dc40cfd79bd2a4078b2e68ed894e70 M	declarative_parallel
+commit 9b9dc0d53a3c74b99c1a29af6d7061e8db26b26b
+tree d41e97b6899425f8779064decce3ddf01290b101
+parent b6810ee919ccfc6aae877928ec2cb25df3592bde
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 17:25:17 +0530
+committer GitHub <noreply@github.com> 2018-12-13 17:25:17 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 8c8ed42d4eb536d441e3b393cc4417bd58f11f05 c6060dbac8d7c049fd20b083230cd9676bfc6868 M	declarative_parallel
+commit b6810ee919ccfc6aae877928ec2cb25df3592bde
+tree 970b941dfc822bc12310d4b2a3bacf5ecd2c0198
+parent 6f533dd2308e0d18714c448119f02a14dd4edb32
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 17:23:43 +0530
+committer GitHub <noreply@github.com> 2018-12-13 17:23:43 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 c665d83edd54f727f328d9a6c25b3ccaeb7b7f45 8c8ed42d4eb536d441e3b393cc4417bd58f11f05 M	declarative_parallel
+commit 6f533dd2308e0d18714c448119f02a14dd4edb32
+tree 3d94d9f3b6830b02c6749064a4ba917b582f55b1
+parent ba2af276e26be7ada6527ffe85122ada24f9df82
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 17:22:22 +0530
+committer GitHub <noreply@github.com> 2018-12-13 17:22:22 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 978e9d76ea6d9624e0c21ec50c36db4080b6962c c665d83edd54f727f328d9a6c25b3ccaeb7b7f45 M	declarative_parallel
+commit ba2af276e26be7ada6527ffe85122ada24f9df82
+tree 5282598a06eba5df223b34b664c81464c31109bf
+parent 4c3f54e1d4f9e35bb36d490eefafb2b32f4f26b7
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 17:20:43 +0530
+committer GitHub <noreply@github.com> 2018-12-13 17:20:43 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 c8ffd640a9eb50bc4118c6587e87c17f587631b3 978e9d76ea6d9624e0c21ec50c36db4080b6962c M	declarative_parallel
+commit 4c3f54e1d4f9e35bb36d490eefafb2b32f4f26b7
+tree 52114ef77e274e2c8a5f32d620963e6ca2605a2b
+parent a19d74eadc01e77b1c6f9804fec12d2897934b9f
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 17:16:52 +0530
+committer GitHub <noreply@github.com> 2018-12-13 17:16:52 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 918a67ec5b1464b4a0e83242b6caf1248490a230 c8ffd640a9eb50bc4118c6587e87c17f587631b3 M	declarative_parallel
+commit a19d74eadc01e77b1c6f9804fec12d2897934b9f
+tree d1df29ac7b4738a7a18ae104f5f08884c920ee9a
+parent 39386addc6c419b48dc32a53c22f5373b7e69fa9
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 17:16:04 +0530
+committer GitHub <noreply@github.com> 2018-12-13 17:16:04 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 62b80b5152fb1c5e077efcb8ffc7e4fbed42ff73 918a67ec5b1464b4a0e83242b6caf1248490a230 M	declarative_parallel
+commit 39386addc6c419b48dc32a53c22f5373b7e69fa9
+tree da01a7ddb1f24aaab0289d2e0b5e8f1152d27909
+parent c9cc044e21879945bb316e13beecf266b76e3cc5
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 17:14:46 +0530
+committer GitHub <noreply@github.com> 2018-12-13 17:14:46 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 7b61582a5f463745d6b479ef8a97bed8f76b0924 62b80b5152fb1c5e077efcb8ffc7e4fbed42ff73 M	declarative_parallel
+commit c9cc044e21879945bb316e13beecf266b76e3cc5
+tree 2ba6f8b3eec42782ddc796dd2d6d93e77e8beb74
+parent 6ad24ccaf6dc9f79bb6248d5aa56f0bad7326bc6
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 17:12:38 +0530
+committer GitHub <noreply@github.com> 2018-12-13 17:12:38 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 ebc83cefd4c160cf5d2666439d0088086f27ff4a 7b61582a5f463745d6b479ef8a97bed8f76b0924 M	declarative_parallel
+commit 6ad24ccaf6dc9f79bb6248d5aa56f0bad7326bc6
+tree 47de3838d4aa5a06549ec9cb2669006aa8814d1c
+parent 25d1f2c8d9b822b9cedb53824c4e8e648898d904
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 17:02:24 +0530
+committer GitHub <noreply@github.com> 2018-12-13 17:02:24 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 5d00e6580fbd09d7c793a28796768f400d0e1336 ebc83cefd4c160cf5d2666439d0088086f27ff4a M	declarative_parallel
+commit 25d1f2c8d9b822b9cedb53824c4e8e648898d904
+tree a23f856ac5c646c752100e50f2d960197ff86008
+parent 3fd7d431e427dbed7ad2ff8e33ceb06ae8ce811b
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 16:59:04 +0530
+committer GitHub <noreply@github.com> 2018-12-13 16:59:04 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 d7459753112cefee664a154a8d651478cb9dfdac 5d00e6580fbd09d7c793a28796768f400d0e1336 M	declarative_parallel
+commit 3fd7d431e427dbed7ad2ff8e33ceb06ae8ce811b
+tree e82995efbf5bdb5737628feda10473f4a7afb62d
+parent 66c18971fc0907d99f41fdd53924bcf25b5a742b
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 16:57:07 +0530
+committer GitHub <noreply@github.com> 2018-12-13 16:57:07 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 e0fe5096084d426409bc8945d29787bd426d4461 d7459753112cefee664a154a8d651478cb9dfdac M	declarative_parallel
+commit 66c18971fc0907d99f41fdd53924bcf25b5a742b
+tree 51e234a380508691f2012899fc86071ecbb20234
+parent e9ca87a03eb275c409814f19f9e521bebbeb73df
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 16:53:58 +0530
+committer GitHub <noreply@github.com> 2018-12-13 16:53:58 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 3fb9770d14b3be24b4285942950c393d158f5821 e0fe5096084d426409bc8945d29787bd426d4461 M	declarative_parallel
+commit e9ca87a03eb275c409814f19f9e521bebbeb73df
+tree 304f8f76699ef64b4a20950235c4ab7d47f52b5c
+parent 31af893b07946288b1af03a6983b19894b110d1a
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 16:52:10 +0530
+committer GitHub <noreply@github.com> 2018-12-13 16:52:10 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 600c989efa4b70ea7067881415203064912afc80 3fb9770d14b3be24b4285942950c393d158f5821 M	declarative_parallel
+commit 31af893b07946288b1af03a6983b19894b110d1a
+tree d6f28fdb5f55c1145c8060287eca1024960a4d5a
+parent 6087c8ec1821e1f1d962939a0d00a09f95dd9170
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 16:50:20 +0530
+committer GitHub <noreply@github.com> 2018-12-13 16:50:20 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 75ac87eb3e77ec6856931df3ef2f9ada243d58b9 600c989efa4b70ea7067881415203064912afc80 M	declarative_parallel
+commit 6087c8ec1821e1f1d962939a0d00a09f95dd9170
+tree 23ad1cb558043e4958700ad099c5db1a727546ab
+parent 6818502228725b3d72e06bdc67ae11696ef07327
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 16:48:16 +0530
+committer GitHub <noreply@github.com> 2018-12-13 16:48:16 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 5e9f8c2fafbee87cb581223e738bedf2e240effe 75ac87eb3e77ec6856931df3ef2f9ada243d58b9 M	declarative_parallel
+commit 6818502228725b3d72e06bdc67ae11696ef07327
+tree e74b44567a28faf9ffc748808668f1828c7c1bd3
+parent 0e6e256df6f480466d10959b98033b7b51247178
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 16:47:33 +0530
+committer GitHub <noreply@github.com> 2018-12-13 16:47:33 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 cf3d5efd47302e5631f42a51b4be7cb2d239ebc2 5e9f8c2fafbee87cb581223e738bedf2e240effe M	declarative_parallel
+commit 0e6e256df6f480466d10959b98033b7b51247178
+tree 7259d3826cf42829024f7df342b050dec1a736df
+parent 8f2886582eb21de2e5a00580a111f2a0178434bf
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 16:46:29 +0530
+committer GitHub <noreply@github.com> 2018-12-13 16:46:29 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 c2bbd8dabe17e2c676d235394e7d3c1eb0ec6cdd cf3d5efd47302e5631f42a51b4be7cb2d239ebc2 M	declarative_parallel
+commit 8f2886582eb21de2e5a00580a111f2a0178434bf
+tree a0380bcd21cafb7af8a032859024a7f0ba160d98
+parent 7fb151c4ca3777ef002a3f118e2fd2aadc10dee8
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-13 16:43:46 +0530
+committer GitHub <noreply@github.com> 2018-12-13 16:43:46 +0530
+
+    uploaded declarative parallel jenkins file
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 c2bbd8dabe17e2c676d235394e7d3c1eb0ec6cdd A	declarative_parallel
+commit 7fb151c4ca3777ef002a3f118e2fd2aadc10dee8
+tree 4a822f734146c02a47bd7874a716a0b63b672aab
+parent 51b507756af88c43830b1b7a983132c2f5681cc3
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 19:12:05 +0530
+committer GitHub <noreply@github.com> 2018-12-12 19:12:05 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 43d9330454da352de96c21ec5acc6e4fd1fb11bd 01d4404c3e4ae94d404f3c3136d66b54d11f7698 M	directives_jenkinsfile.txt
+commit 51b507756af88c43830b1b7a983132c2f5681cc3
+tree 9b7aa4ad1a11a07102074fee73fac705d01b12c6
+parent 0b4eb77263ac3c7e9ae0fdb4083e9f16779a325c
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 19:10:02 +0530
+committer GitHub <noreply@github.com> 2018-12-12 19:10:02 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 c295cc2da186090338bd0ad7a281fffdeb466cbd 43d9330454da352de96c21ec5acc6e4fd1fb11bd M	directives_jenkinsfile.txt
+commit 0b4eb77263ac3c7e9ae0fdb4083e9f16779a325c
+tree 2ffc8fba6383fee0dbf32b2315a719c64db1060a
+parent a3baf1ea7a5ba5aff29fdf7098dde96d87dc6263
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 19:09:24 +0530
+committer GitHub <noreply@github.com> 2018-12-12 19:09:24 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 dce63bdb19dc9b34f555056b0a00caad9c77d450 c295cc2da186090338bd0ad7a281fffdeb466cbd M	directives_jenkinsfile.txt
+commit a3baf1ea7a5ba5aff29fdf7098dde96d87dc6263
+tree 6cb782025c7ad6a3fd743e516de58e2acfcdbd78
+parent 2083e4eafa334fe147547d1e7051a66938bf9a6e
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 19:08:02 +0530
+committer GitHub <noreply@github.com> 2018-12-12 19:08:02 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 7b46569b55d09b3bfad632001dbd4878d427f314 dce63bdb19dc9b34f555056b0a00caad9c77d450 M	directives_jenkinsfile.txt
+commit 2083e4eafa334fe147547d1e7051a66938bf9a6e
+tree 7e2fb92027eb1a4d2e71c84936e07259cd771b28
+parent 87b7a13bba28879fd471ae33c3b7d6fc28b99fde
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 19:06:03 +0530
+committer GitHub <noreply@github.com> 2018-12-12 19:06:03 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 2da6b091e9fa776a1200002ad32ce4fc3d3bb8d8 7b46569b55d09b3bfad632001dbd4878d427f314 M	directives_jenkinsfile.txt
+commit 87b7a13bba28879fd471ae33c3b7d6fc28b99fde
+tree 5143f7516ad3c4631528451626eda2f83856a062
+parent 5715c62d22889ca9ef24fa727a8e4d9c8e685a06
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 19:05:22 +0530
+committer GitHub <noreply@github.com> 2018-12-12 19:05:22 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 bf09087c3ab0899d8065e9681bd1675bcb88ff0b 2da6b091e9fa776a1200002ad32ce4fc3d3bb8d8 M	directives_jenkinsfile.txt
+commit 5715c62d22889ca9ef24fa727a8e4d9c8e685a06
+tree 338fc42bb6049feadae9d5900d532a670678aff6
+parent 43ba877901884a840825437677b32e7ea47d71b2
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 19:04:35 +0530
+committer GitHub <noreply@github.com> 2018-12-12 19:04:35 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 cb282687a2f66f0c4cef0887e29f81f07deb535b bf09087c3ab0899d8065e9681bd1675bcb88ff0b M	directives_jenkinsfile.txt
+commit 43ba877901884a840825437677b32e7ea47d71b2
+tree 2be4138112abdc015bb2500bf1bbcd23c950ca20
+parent abbfa7e74e79f4cc873e8c84dcb08cf81560a9b8
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 19:02:34 +0530
+committer GitHub <noreply@github.com> 2018-12-12 19:02:34 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 95701d09d82de9a3060f16657d2ef7ab8965e29e cb282687a2f66f0c4cef0887e29f81f07deb535b M	directives_jenkinsfile.txt
+commit abbfa7e74e79f4cc873e8c84dcb08cf81560a9b8
+tree 397fc0ea2486c1b51d6bcfd08ff20194134c5c87
+parent 09a68f4dea0cf628a6142a472f0a1f0a7a4e8058
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 17:38:22 +0530
+committer GitHub <noreply@github.com> 2018-12-12 17:38:22 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 936341e6ccfb35f6ec6a1752ea2ff38d486ec302 95701d09d82de9a3060f16657d2ef7ab8965e29e M	directives_jenkinsfile.txt
+commit 09a68f4dea0cf628a6142a472f0a1f0a7a4e8058
+tree e6bf933bbb1632fd3c13543f41e842ed8af642da
+parent 346dd95f17b81eddaad609af46e627d8ff27659d
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 17:36:36 +0530
+committer GitHub <noreply@github.com> 2018-12-12 17:36:36 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 9257bd90367114d0e0aa262e6ff09a75c2976ea7 936341e6ccfb35f6ec6a1752ea2ff38d486ec302 M	directives_jenkinsfile.txt
+commit 346dd95f17b81eddaad609af46e627d8ff27659d
+tree 5b8fc3a84992bbc648e35cf8f8e348a8a7b30697
+parent f8e1abf4cd05eb405471f518bffcaa1cefa9de6b
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 17:36:19 +0530
+committer GitHub <noreply@github.com> 2018-12-12 17:36:19 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 852ce1f676e34241f6a458fe296daa40977c299d 9257bd90367114d0e0aa262e6ff09a75c2976ea7 M	directives_jenkinsfile.txt
+commit f8e1abf4cd05eb405471f518bffcaa1cefa9de6b
+tree 6bb87b45d8c0d986cafad21d104a597cd7359c4f
+parent 92a7aa19377247e64f2afe7cae58101c91b748a5
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 17:35:27 +0530
+committer GitHub <noreply@github.com> 2018-12-12 17:35:27 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 894a45041cb069548a2ac3214b6ebb6b3ab63a35 852ce1f676e34241f6a458fe296daa40977c299d M	directives_jenkinsfile.txt
+commit 92a7aa19377247e64f2afe7cae58101c91b748a5
+tree 22382c8588b8787b04acbafd9fe761b9f14a170b
+parent ed2d378c4dfd8691f4c65083ebd613f3ad6f5507
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 17:33:22 +0530
+committer GitHub <noreply@github.com> 2018-12-12 17:33:22 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 7ee9cb35e5c73943909b059b11c50945e6b0c8d9 894a45041cb069548a2ac3214b6ebb6b3ab63a35 M	directives_jenkinsfile.txt
+commit ed2d378c4dfd8691f4c65083ebd613f3ad6f5507
+tree f0e0364e763c89a1a31b30d59f7ce0478cb81fdc
+parent 939a8d2ec1510bb4dee6cac8fb7c77007e410d4f
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 17:32:06 +0530
+committer GitHub <noreply@github.com> 2018-12-12 17:32:06 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 cfa18d0f8bc5b6e4153fd30d1d43ed19a794a3e8 7ee9cb35e5c73943909b059b11c50945e6b0c8d9 M	directives_jenkinsfile.txt
+commit 939a8d2ec1510bb4dee6cac8fb7c77007e410d4f
+tree 41f878a50ba83bb3784401da9ac4f6a4c0ccaae3
+parent 077da390516df7c6d4007e3d81476159b9cf0903
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 17:29:57 +0530
+committer GitHub <noreply@github.com> 2018-12-12 17:29:57 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 93e0ea246054a2c041ba25e434cc6631c4487fd9 cfa18d0f8bc5b6e4153fd30d1d43ed19a794a3e8 M	directives_jenkinsfile.txt
+commit 077da390516df7c6d4007e3d81476159b9cf0903
+tree d2774e9d56435b93bde2515ba9da9c0767be8640
+parent 725058d5343a6acb80eff848f68800837c0af046
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 17:20:11 +0530
+committer GitHub <noreply@github.com> 2018-12-12 17:20:11 +0530
+
+    Added string parameter
+
+
+
+:100644 100644 98354b36baee136353b524bebcd320ba4f4311bd 93e0ea246054a2c041ba25e434cc6631c4487fd9 M	directives_jenkinsfile.txt
+commit 725058d5343a6acb80eff848f68800837c0af046
+tree d7bbd8a43b8762b616037b710b631a13d255cc5f
+parent d181bf3f9563b5e522895676092d7d144820892c
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 17:01:48 +0530
+committer GitHub <noreply@github.com> 2018-12-12 17:01:48 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 4ea5fe6ed2757e22d483ed07bad3337aaf4bd5ba 98354b36baee136353b524bebcd320ba4f4311bd M	directives_jenkinsfile.txt
+commit d181bf3f9563b5e522895676092d7d144820892c
+tree 47d854edf007977a6533c90601ffda3ba938bb7e
+parent e278a7b9f711155c580f3ab89215b0e50ca6bb4f
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 17:00:57 +0530
+committer GitHub <noreply@github.com> 2018-12-12 17:00:57 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 c24c0d68f1f73dc2ff55e3f76d0acaa735011a85 4ea5fe6ed2757e22d483ed07bad3337aaf4bd5ba M	directives_jenkinsfile.txt
+commit e278a7b9f711155c580f3ab89215b0e50ca6bb4f
+tree d5b6bce54d94ab22ddca276530647c4ce5a69b95
+parent 22eb714bd47ae8b4493d6c6e54b0d1889dfdf3b9
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 16:59:37 +0530
+committer GitHub <noreply@github.com> 2018-12-12 16:59:37 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 9d11fc532fe4aaaf2d8b74007b7d8186a8244806 c24c0d68f1f73dc2ff55e3f76d0acaa735011a85 M	directives_jenkinsfile.txt
+commit 22eb714bd47ae8b4493d6c6e54b0d1889dfdf3b9
+tree 1ccfdd581ba93146f58e9853557532fa6866de33
+parent e75463638fa3b1011d53ae92004f538e4d18d9ae
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 16:58:46 +0530
+committer GitHub <noreply@github.com> 2018-12-12 16:58:46 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 ce9d5249d4369f928e3c15683b076621dfcaebf3 9d11fc532fe4aaaf2d8b74007b7d8186a8244806 M	directives_jenkinsfile.txt
+commit e75463638fa3b1011d53ae92004f538e4d18d9ae
+tree 471d085af5db82f1a96d9867ce4e57fd26e64248
+parent 1579acec88bfc173d0ad2c969611cdf03c488960
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 16:43:37 +0530
+committer GitHub <noreply@github.com> 2018-12-12 16:43:37 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 b7f1c3589e11bd8cdc19c2484a4452ca6e2642f8 ce9d5249d4369f928e3c15683b076621dfcaebf3 M	directives_jenkinsfile.txt
+commit 1579acec88bfc173d0ad2c969611cdf03c488960
+tree 3d35b8b52fb6fba01acb20b8dbdf2bb1b7eb2597
+parent c455a871049e7928620c8e4b5896ac2f0e05b212
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 16:10:17 +0530
+committer GitHub <noreply@github.com> 2018-12-12 16:10:17 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 731df42ce424a03184a94eaab34cf1fc59893b8c b7f1c3589e11bd8cdc19c2484a4452ca6e2642f8 M	directives_jenkinsfile.txt
+commit c455a871049e7928620c8e4b5896ac2f0e05b212
+tree b4097fffaf279904ce7e310a16d7e96f43dca549
+parent bbc0b53857ae89ac96fa4f535670723803e2b06f
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 16:05:32 +0530
+committer GitHub <noreply@github.com> 2018-12-12 16:05:32 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 bfb1f6f904c1c72ebf287cd284228c82ec7412cb 731df42ce424a03184a94eaab34cf1fc59893b8c M	directives_jenkinsfile.txt
+commit bbc0b53857ae89ac96fa4f535670723803e2b06f
+tree cd3eb8e1665941ba8543e9bf0392a04bce7532a4
+parent a877b346ae72602e116c77e9f023080ba5dd091d
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 16:04:26 +0530
+committer GitHub <noreply@github.com> 2018-12-12 16:04:26 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 5ae7233bc2505f90d01b2c5126a145310c5f18fb bfb1f6f904c1c72ebf287cd284228c82ec7412cb M	directives_jenkinsfile.txt
+commit a877b346ae72602e116c77e9f023080ba5dd091d
+tree 5d0bc42a6922d5224629ace71424c7ef485c2a67
+parent 93ec89f8fa22bd0e4fa38dfe194c9330108006a2
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 16:02:51 +0530
+committer GitHub <noreply@github.com> 2018-12-12 16:02:51 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 9b5e8cdce571f5a892f72a8a554504837af260d4 5ae7233bc2505f90d01b2c5126a145310c5f18fb M	directives_jenkinsfile.txt
+commit 93ec89f8fa22bd0e4fa38dfe194c9330108006a2
+tree 5cd90645ed70283ed40d11d779708d4dd6c178dc
+parent 9d1ec28fa6066aca6b3c73ae5e781e52ddc558b5
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:54:54 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:54:54 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 2309b2bcc13b0de18d89dc707ce38ba160908135 9b5e8cdce571f5a892f72a8a554504837af260d4 M	directives_jenkinsfile.txt
+commit 9d1ec28fa6066aca6b3c73ae5e781e52ddc558b5
+tree fe883f38b36fe5c70aa38f22aeb7171175181be5
+parent 96842460fcdf16e6204783839c155b2721062654
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:53:32 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:53:32 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 a9f7429524d2ef08877a941a5366a1b4f35a1848 2309b2bcc13b0de18d89dc707ce38ba160908135 M	directives_jenkinsfile.txt
+commit 96842460fcdf16e6204783839c155b2721062654
+tree 5e871810746c4a68ec036b45f23b05f1505d2150
+parent 5635c62c2b0d6024c2d50531f28f7ca0ef4c961e
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:50:58 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:50:58 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 678434a57e85c08d84dbaaa3c420e29dc9e8ef71 a9f7429524d2ef08877a941a5366a1b4f35a1848 M	directives_jenkinsfile.txt
+commit 5635c62c2b0d6024c2d50531f28f7ca0ef4c961e
+tree 24d3672634502f1704b027d7fd91724083a0b482
+parent 71fad5ffa6d98ddd1bbdd508593757a82f346260
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:48:05 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:48:05 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 f0f628ddc9704388147a4c5ff4eb4c52843b787b 678434a57e85c08d84dbaaa3c420e29dc9e8ef71 M	directives_jenkinsfile.txt
+commit 71fad5ffa6d98ddd1bbdd508593757a82f346260
+tree 5dc5b0d968e0e6d80262d6f09fb309714f9d4d44
+parent 837cfb925a38c73b771c8f1d8b29d13f36a89d59
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:46:14 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:46:14 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 5e00a2f18e5de93d405e2856697f59e297259ee0 f0f628ddc9704388147a4c5ff4eb4c52843b787b M	directives_jenkinsfile.txt
+commit 837cfb925a38c73b771c8f1d8b29d13f36a89d59
+tree 4886455729940a2e51c1f34b95ad874b2240348e
+parent b7548c34625e7f52facbc5396778328522f5f1f6
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:44:48 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:44:48 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 f1a60b2147685deb19c510a7eda86e00471abca2 5e00a2f18e5de93d405e2856697f59e297259ee0 M	directives_jenkinsfile.txt
+commit b7548c34625e7f52facbc5396778328522f5f1f6
+tree 768be11eea7edced19895a9efb55a4e5862459d2
+parent 022f9765b36503b8639dafd03b5858ae4112f0b2
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:43:42 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:43:42 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 9cebd982c0e432646f72c96c17548bf21fd725dc f1a60b2147685deb19c510a7eda86e00471abca2 M	directives_jenkinsfile.txt
+commit 022f9765b36503b8639dafd03b5858ae4112f0b2
+tree e0061e5a2b942d635e6c1160d4d14a43eeab80a5
+parent 10987f6e7200dcd8c3609bd4978678e37ba89ee4
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:42:29 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:42:29 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 cdb23c87493af9c023e9f38976a7c1f8cbb41bd0 9cebd982c0e432646f72c96c17548bf21fd725dc M	directives_jenkinsfile.txt
+commit 10987f6e7200dcd8c3609bd4978678e37ba89ee4
+tree d77855a573e41cfefd15340a2a88928ae70961de
+parent 77abf983bced7d319da24dba9e539f2b47f2a89d
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:38:33 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:38:33 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 239ba33f49edf93947a83824ff12fdbd3e1405a2 cdb23c87493af9c023e9f38976a7c1f8cbb41bd0 M	directives_jenkinsfile.txt
+commit 77abf983bced7d319da24dba9e539f2b47f2a89d
+tree 5d7b311a0004f58b958e3450c6e74a9cb6142a69
+parent 8e43fdc44365411e92e49cbefa162d2a334a0864
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:32:47 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:32:47 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 844fa7acc712a767792ba240f14db1e4c5312426 239ba33f49edf93947a83824ff12fdbd3e1405a2 M	directives_jenkinsfile.txt
+commit 8e43fdc44365411e92e49cbefa162d2a334a0864
+tree 2c1be647041577d2e0bb24e9916fb920b151966b
+parent 84ef8f7cc0065eb10f20de04eb64b1d7afd33829
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:31:26 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:31:26 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 55fa0159df981738fbd4c638c464883fc28adc15 844fa7acc712a767792ba240f14db1e4c5312426 M	directives_jenkinsfile.txt
+commit 84ef8f7cc0065eb10f20de04eb64b1d7afd33829
+tree 9a769ce130eb99331bf6e1d4d551fa9a707b6d2a
+parent 2eed8d3a5ba1b574b6b653ecf9c99659ffc21c90
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:30:44 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:30:44 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 4f12cccbadc8cc67fe866fa2faf74a79d5b99265 55fa0159df981738fbd4c638c464883fc28adc15 M	directives_jenkinsfile.txt
+commit 2eed8d3a5ba1b574b6b653ecf9c99659ffc21c90
+tree a5c6cd6b60ab9b0c7487a7fb97f3254be47eb580
+parent 753141a03d855331eb9f89a4899ae05f34277a28
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:29:59 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:29:59 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 6bd19979e778016e7fd5fe9b1f5f484fcd86af9e 4f12cccbadc8cc67fe866fa2faf74a79d5b99265 M	directives_jenkinsfile.txt
+commit 753141a03d855331eb9f89a4899ae05f34277a28
+tree b95f6abaed70e66904f2f7b0489f98af0ffa0779
+parent 9b7711e2c3f36f3490f9b3abe1fba188ccfa31a5
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:27:06 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:27:06 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 c1bc62db544e98bb0a9992eb7ff24418959f0611 6bd19979e778016e7fd5fe9b1f5f484fcd86af9e M	directives_jenkinsfile.txt
+commit 9b7711e2c3f36f3490f9b3abe1fba188ccfa31a5
+tree e5ad3a36b8434fe87d01d76dc717d1ecba8fdfed
+parent bad4ef9c455b9b3040f188011b39abf9d1535d86
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:18:24 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:18:24 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 1c5b8e7658652aaadc8c0e6cbad4b07542dbf4e7 c1bc62db544e98bb0a9992eb7ff24418959f0611 M	directives_jenkinsfile.txt
+commit bad4ef9c455b9b3040f188011b39abf9d1535d86
+tree 31f5fad7fd376dcbffa31b1229cd432a4bfb9a78
+parent 110d00ced5dc2fe2e63c5d779e9e137b622fb493
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:17:48 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:17:48 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 3242385979d1980746e2136f077b4b5ff0060bf2 1c5b8e7658652aaadc8c0e6cbad4b07542dbf4e7 M	directives_jenkinsfile.txt
+commit 110d00ced5dc2fe2e63c5d779e9e137b622fb493
+tree b7c7df9c2bc194d982fd930f0e5a582ac472530c
+parent 7578c79f67ef55aca4251f68f6045f7d87a5516a
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:17:00 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:17:00 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 151d1302cc5ee680aa74ec0793905d0f5d2ffda7 3242385979d1980746e2136f077b4b5ff0060bf2 M	directives_jenkinsfile.txt
+commit 7578c79f67ef55aca4251f68f6045f7d87a5516a
+tree 8a423a2960cfbf9690b31df46bf98a58ba5615c4
+parent 340a795b028bb71882558b4603af5d7183cf8fdb
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:14:19 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:14:19 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 257c6bafd99b6e94a6db819f55ccae2b3fd695d7 151d1302cc5ee680aa74ec0793905d0f5d2ffda7 M	directives_jenkinsfile.txt
+commit 340a795b028bb71882558b4603af5d7183cf8fdb
+tree be1ddbff01ca9cb25271289d92f3ad9341016404
+parent 57f725ef0aec16a3c2d051afc18a4d2325943cc4
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:13:27 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:13:27 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 0d1f4a20a73d4bd3228eb2750c49f2570a05114e 257c6bafd99b6e94a6db819f55ccae2b3fd695d7 M	directives_jenkinsfile.txt
+commit 57f725ef0aec16a3c2d051afc18a4d2325943cc4
+tree c6f94662c3061b1c85ecdc8f55c0feed7670e741
+parent fb0eafc3e4443a976236c20f2e7abf9ec6533e9a
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:11:46 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:11:46 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 b22b1e5f97c75ab94d4b1b72c470f3d6bd283bd3 0d1f4a20a73d4bd3228eb2750c49f2570a05114e M	directives_jenkinsfile.txt
+commit fb0eafc3e4443a976236c20f2e7abf9ec6533e9a
+tree eeed4bed74de36addd137d1af2969ca4aac3d09d
+parent d4d45679b79dbb3d236bc50e599f331f14bd73cb
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:10:50 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:10:50 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 b1988b9d9c957c558851c33749d695b664ddb1c6 b22b1e5f97c75ab94d4b1b72c470f3d6bd283bd3 M	directives_jenkinsfile.txt
+commit d4d45679b79dbb3d236bc50e599f331f14bd73cb
+tree 8877c69138410772892c9ae710b116ebc66b5707
+parent f7871fe6e942733ca61135491346f0144f1ed57e
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-12 15:08:52 +0530
+committer GitHub <noreply@github.com> 2018-12-12 15:08:52 +0530
+
+    Uploadded directive_jenkinsfile
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 b1988b9d9c957c558851c33749d695b664ddb1c6 A	directives_jenkinsfile.txt

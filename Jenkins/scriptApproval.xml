@@ -1,0 +1,156 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<scriptApproval plugin="script-security@1.48">
+  <approvedScriptHashes>
+    <string>017d0db438428731cd600b6ebda805065433520f</string>
+  </approvedScriptHashes>
+  <approvedSignatures/>
+  <aclApprovedSignatures/>
+  <approvedClasspathEntries/>
+  <pendingScripts>
+    <pendingScript>
+      <context/>
+      <script>// Powered by Infostretch 
+
+timestamps {
+
+node (&apos;Agent_muthumani&apos;) { 
+
+	stage (&apos;job2_transfering_downloaded_files_from_muthupc_to_madhupc - Build&apos;) {
+ 	
+// Unable to convert a build step referring to &quot;jenkins.plugins.publish__over__ftp.BapFtpBuilder&quot;. Please verify and convert manually if required. 
+	}
+}
+node (&apos;agent_madhu&apos;) { 
+
+	stage (&apos;job3_Building_java_files_in_madhupc(slave2)_projectworkspace - Build&apos;) {
+ 			// Batch build step
+bat &quot;&quot;&quot; 
+xcopy /hievry D:\ftp_folder\pipeline C:\Jenkins\pipeline_testing&#xd;
+javac C:\Jenkins\pipeline_testing\Demo.java 
+ &quot;&quot;&quot; 
+	}
+	stage (&apos;job4_testing_java_project - Build&apos;) {
+ 			// Batch build step
+bat &quot;&quot;&quot; 
+java Demo 
+ &quot;&quot;&quot; 
+	}
+}
+}</script>
+      <language>groovy</language>
+    </pendingScript>
+    <pendingScript>
+      <context/>
+      <script>// Powered by Infostretch 
+
+timestamps {
+
+node (&apos;agent_madhu&apos;) { 
+
+	stage (&apos;job4_testing_java_project - Build&apos;) {
+ 			// Batch build step
+bat &quot;&quot;&quot; 
+java Demo 
+ &quot;&quot;&quot; 
+	}
+}
+}</script>
+      <language>groovy</language>
+    </pendingScript>
+    <pendingScript>
+      <context/>
+      <script>node(&apos;agent_mythili2&apos;)
+{
+    stage(&apos;transferring_to_madhu_ftp_server&apos;)
+    {
+        echo &quot;insdie STAGE &quot;
+        
+       bat&apos;&apos;&apos;ncftpput -R -u madhubala -p Madhu@123 10.1.4.56 / D:/jenkins_jaya/files_need_to_transfer_to_ftp_server&apos;&apos;&apos;
+        
+        echo &quot;transfer completed sucesfully!!!!&quot;
+    }
+}</script>
+      <language>groovy</language>
+    </pendingScript>
+    <pendingScript>
+      <context/>
+      <script>// Powered by Infostretch 
+
+timestamps {
+
+node (&apos;Agent_muthumani&apos;) { 
+
+	stage (&apos;job1_pulling_from_github_to_muthuagent1 - Checkout&apos;) {
+ 	 checkout([$class: &apos;GitSCM&apos;, branches: [[name: &apos;*/master&apos;]], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: &apos;&apos;, url: &apos;https://github.com/jayanagavenkatasudhakar/jenkins.git&apos;]]]) 
+	}
+	stage (&apos;job2_transfering_downloaded_files_from_muthupc_to_madhupc - Build&apos;) {
+ 	
+// Unable to convert a build step referring to &quot;jenkins.plugins.publish__over__ftp.BapFtpBuilder&quot;. Please verify and convert manually if required. 
+	}
+}
+node (&apos;agent_madhu&apos;) { 
+
+	stage (&apos;job3_Building_java_files_in_madhupc(slave2)_projectworkspace - Build&apos;) {
+ 			// Batch build step
+bat &quot;&quot;&quot; 
+xcopy /hievry D:\ftp_folder\pipeline C:\Jenkins\pipeline_testing&#xd;
+javac C:\Jenkins\pipeline_testing\Demo.java 
+ &quot;&quot;&quot; 
+	}
+	stage (&apos;job4_testing_java_project - Build&apos;) {
+ 			// Batch build step
+bat &quot;&quot;&quot; 
+java Demo 
+ &quot;&quot;&quot; 
+	}
+}
+}</script>
+      <language>groovy</language>
+    </pendingScript>
+    <pendingScript>
+      <context/>
+      <script>node (&apos;agent_madhu&apos;)
+{
+    //agent (&apos;agent_madhu&apos;)
+    stage(&quot;pulling AVB Source code&quot;)
+    {
+       
+        git branch:&apos;master&apos;,
+            url: &apos;git@gitserver:JIAVBStack.git&apos;,
+            credentialsId:&apos;6f4b9c68-dadd-4fab-b989-7a41822efaf4&apos;
+            
+        echo &quot;pulled AVB source code succesfull!!!!!!!&quot;
+       
+    }
+}</script>
+      <language>groovy</language>
+    </pendingScript>
+    <pendingScript>
+      <context/>
+      <script>// Powered by Infostretch 
+
+timestamps {
+
+node (&apos;agent_madhu&apos;) { 
+
+	stage (&apos;job3_Building_java_files_in_madhupc(slave2)_projectworkspace - Build&apos;) {
+ 			// Batch build step
+bat &quot;&quot;&quot; 
+xcopy /hievry D:\ftp_folder\pipeline C:\Jenkins\pipeline_testing&#xd;
+javac C:\Jenkins\pipeline_testing\Demo.java 
+ &quot;&quot;&quot; 
+	}
+	stage (&apos;job4_testing_java_project - Build&apos;) {
+ 			// Batch build step
+bat &quot;&quot;&quot; 
+java Demo 
+ &quot;&quot;&quot; 
+	}
+}
+}</script>
+      <language>groovy</language>
+    </pendingScript>
+  </pendingScripts>
+  <pendingSignatures/>
+  <pendingClasspathEntries/>
+</scriptApproval>

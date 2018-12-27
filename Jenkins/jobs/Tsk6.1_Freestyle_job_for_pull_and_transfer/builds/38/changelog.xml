@@ -1,0 +1,225 @@
+commit b4c90555255a7a2c1b47f42d3cdb54af64282746
+tree 8c21e802b03a693ecdae6bd045dda334cd293669
+parent daea3042525081377e7c9e0afc65584131524ac5
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 16:39:50 +0530
+committer GitHub <noreply@github.com> 2018-12-19 16:39:50 +0530
+
+    Delete jenkins_1
+
+
+
+:100644 000000 5c5f6fcbe14b9c4a93c0ebf9f324b7f659850b32 0000000000000000000000000000000000000000 D	jenkins_1
+commit daea3042525081377e7c9e0afc65584131524ac5
+tree 67c9e0a654eaaa782e1a71a7f252ca95529fee71
+parent c3da3b7b5245ef1c521c655fe0efaac4c2094155
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 16:29:19 +0530
+committer GitHub <noreply@github.com> 2018-12-19 16:29:19 +0530
+
+    Update jaya_ftp_server_download_script.bat
+
+
+
+:100644 100644 1a4c6bd3a253e2c29de28944a2783b72289cff57 03bce6ca94ceb048f768a7c41df5a5ee7150fda6 M	jaya_ftp_server_download_script.bat
+commit c3da3b7b5245ef1c521c655fe0efaac4c2094155
+tree d6a9daea81df8bf40ab75f68bda8689893971796
+parent 6d1e4c0fe988f966a303b08d0d7da248764ef43e
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 14:55:09 +0530
+committer GitHub <noreply@github.com> 2018-12-19 14:55:09 +0530
+
+    Update and rename madubala_upload_script.bat to
+    jaya_ftp_server_upload_script.bat
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 478fbbbbb88dab6c269cffdf7e523835488e89d2 A	jaya_ftp_server_upload_script.bat
+:100644 000000 dcb2550b3a3939bef142d47c9d88f4325138032c 0000000000000000000000000000000000000000 D	madubala_upload_script.bat
+commit 6d1e4c0fe988f966a303b08d0d7da248764ef43e
+tree d67b360a23f4668c433520ccf0dfd86e93f5e1af
+parent ccfa74cbdad3984d74e9348426d65105f36a860b
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 14:54:33 +0530
+committer GitHub <noreply@github.com> 2018-12-19 14:54:33 +0530
+
+    Update and rename madhubala_download_script.bat to
+    jaya_ftp_server_download_script.bat
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 1a4c6bd3a253e2c29de28944a2783b72289cff57 A	jaya_ftp_server_download_script.bat
+:100644 000000 ae180e1a0dc37670bd00dffd5ceeee8e12bd2ecf 0000000000000000000000000000000000000000 D	madhubala_download_script.bat
+commit ccfa74cbdad3984d74e9348426d65105f36a860b
+tree 84cbc23da7be8db529e85c937658e115685fac45
+parent 5b15828af6031123f636a685fd311e892be421fe
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 14:34:25 +0530
+committer GitHub <noreply@github.com> 2018-12-19 14:34:25 +0530
+
+    Added scipt.bat files to put & get code from ftp server
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 ae180e1a0dc37670bd00dffd5ceeee8e12bd2ecf A	madhubala_download_script.bat
+:000000 100644 0000000000000000000000000000000000000000 dcb2550b3a3939bef142d47c9d88f4325138032c A	madubala_upload_script.bat
+commit 5b15828af6031123f636a685fd311e892be421fe
+tree 07913343f7e8bd31bed3518728bdab3116cd13f8
+parent 9f0d5653137f47413f869cf22766ddcc47da4202
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:46:24 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:46:24 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 4da77ec58b92ad6ab1eaf449a5c43d1d194db5f6 78e1c5fe929ab51d882ebc5f5038fd3e8bfffc69 M	declarative_parallel
+commit 9f0d5653137f47413f869cf22766ddcc47da4202
+tree a933157e4f184557a3164350ad0faae03caf2f2b
+parent f90ef747f30934c2171b3e1eda0ad2ba762474f5
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:41:39 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:41:39 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 149e049b4c1d49db59dd3cdc58f31ea58fe07005 cd653d4cb0c53e7c90cb5763d7e528d377e86bba M	directives_jenkinsfile.txt
+commit f90ef747f30934c2171b3e1eda0ad2ba762474f5
+tree 2e73defb28c2152bcb071fece4dd8baec010c61c
+parent ac8b701a2de23b23ecbce40e5902f41a60231ffe
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:36:30 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:36:30 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 be6c24bb62a99b1bbf4dd40e9bdf81490a9219a3 149e049b4c1d49db59dd3cdc58f31ea58fe07005 M	directives_jenkinsfile.txt
+commit ac8b701a2de23b23ecbce40e5902f41a60231ffe
+tree dcb09cdaafad5b2d6d696a80242c1e6417ecb5fb
+parent 4a6ac72a829d42dea4f7a41fb5fa3bc42e95b886
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:35:13 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:35:13 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 73fe15d3bfca8ae36df4f98d6e7cbb3df78fb8d4 be6c24bb62a99b1bbf4dd40e9bdf81490a9219a3 M	directives_jenkinsfile.txt
+commit 4a6ac72a829d42dea4f7a41fb5fa3bc42e95b886
+tree 733633a7ec119867ed26d04ba080ce35ce1ec1fd
+parent a15fc9b73f2bb1479d69b4b7a42ee6cc16c307a3
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:31:45 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:31:45 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 598e73b1028a21d393210acd45ed30fd6f8f78da 73fe15d3bfca8ae36df4f98d6e7cbb3df78fb8d4 M	directives_jenkinsfile.txt
+commit a15fc9b73f2bb1479d69b4b7a42ee6cc16c307a3
+tree d0f2868361246870bd69b5488fd6e1e29aaee8fd
+parent a6b57addc91ffc74e2b2b87d92b871c892df20d0
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:25:51 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:25:51 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 e6436a770b22ef52c8584fa2f0aac56c048cbbfc 598e73b1028a21d393210acd45ed30fd6f8f78da M	directives_jenkinsfile.txt
+commit a6b57addc91ffc74e2b2b87d92b871c892df20d0
+tree bf865087c3007195296405a0859408f54533b0d3
+parent 4842d79fb1f1c868599c9ae8477aa5bd1bb85fbb
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:22:09 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:22:09 +0530
+
+    Update directives_jenkinsfile.txt
+
+
+
+:100644 100644 01d4404c3e4ae94d404f3c3136d66b54d11f7698 e6436a770b22ef52c8584fa2f0aac56c048cbbfc M	directives_jenkinsfile.txt
+commit 4842d79fb1f1c868599c9ae8477aa5bd1bb85fbb
+tree 38df4ab7c31a7b0dc658c95f4d6f7fa0eb5dddee
+parent 261b94f763e99695f3647b486aed6bb0058056ef
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:17:20 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:17:20 +0530
+
+    Update jenkins_functions
+
+
+
+:100644 100644 e78785639669a4c901d0505dd7730674093c9430 ca789e750de927045d6dbb129e69c4c9e545ffe2 M	jenkins_functions
+commit 261b94f763e99695f3647b486aed6bb0058056ef
+tree 450975b68e27e7a9ad9d3644d09cd18846690eee
+parent 136606607dc22ab2193a83188ca26cd66af21228
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:16:29 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:16:29 +0530
+
+    Update jenkins_functions
+
+
+
+:100644 100644 6108f543aee93f1bbb8b30dce1a8b975813ddf7e e78785639669a4c901d0505dd7730674093c9430 M	jenkins_functions
+commit 136606607dc22ab2193a83188ca26cd66af21228
+tree 826f65819b86333c072590ebe23e6026b3f71e0b
+parent 4652258703c3936671f8728ce2acc68d50774191
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:15:42 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:15:42 +0530
+
+    Update jenkins_functions
+
+
+
+:100644 100644 7bedff7e939b9986619714b4bed1d8e3c5917501 6108f543aee93f1bbb8b30dce1a8b975813ddf7e M	jenkins_functions
+commit 4652258703c3936671f8728ce2acc68d50774191
+tree 100a6b37c7bbf5d97d8eb71329a34af821b89294
+parent 96d344c3b4098496d31d7b243661c02f9f75e3d3
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:11:12 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:11:12 +0530
+
+    Update jenkins_functions
+
+
+
+:100644 100644 ff2717b42f068b35ff98ea3d953a455466f0c32a 7bedff7e939b9986619714b4bed1d8e3c5917501 M	jenkins_functions
+commit 96d344c3b4098496d31d7b243661c02f9f75e3d3
+tree 1cbc0131473e89693c72142e3c23f4108dc3595c
+parent 06ea93daf9da35891600f6ead9c43d8a44d61b6d
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:06:57 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:06:57 +0530
+
+    Update and rename jenkins_total to jenkins_functions
+
+
+
+:100644 100644 ddba4e0fff208f90e468248e055f7133681425de ff2717b42f068b35ff98ea3d953a455466f0c32a R090	jenkins_total	jenkins_functions
+commit 06ea93daf9da35891600f6ead9c43d8a44d61b6d
+tree 6c60f80b2643e3db3135fcff929b1fa47dd19a6e
+parent 208f05f0dc3e705f37381891ff4691d0a946e91c
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 12:04:06 +0530
+committer GitHub <noreply@github.com> 2018-12-19 12:04:06 +0530
+
+    Update declarative_parallel
+
+
+
+:100644 100644 5f561bd59996e9f69574ba5979cd6ae963676e75 4da77ec58b92ad6ab1eaf449a5c43d1d194db5f6 M	declarative_parallel
+commit 208f05f0dc3e705f37381891ff4691d0a946e91c
+tree c3893b0271419e64544da5c0d049b738638a8aa6
+parent 9152e6e9dfd853935adc13b945d6ff23a2f8d4f2
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 11:51:33 +0530
+committer GitHub <noreply@github.com> 2018-12-19 11:51:33 +0530
+
+    Update demo_jenkinsfile
+
+
+
+:100644 100644 33586376940d30b36ae1ac094a63523b6bc74b4f edbf9779f60e2ec54d275b5f7df1ecb41c4f7750 M	demo_jenkinsfile
+commit 9152e6e9dfd853935adc13b945d6ff23a2f8d4f2
+tree 9793a64bef8a864b2800d360d07ad88be7cec1b6
+parent 708fd1fad14796db0f8be3f2cfc6d1934cfec313
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-19 11:51:29 +0530
+committer GitHub <noreply@github.com> 2018-12-19 11:51:29 +0530
+
+    Update Demo.java
+
+
+
+:100644 100644 e15719fd32c9566369759abcc7bcbd3b378eadbe 4be6a000a6ebd12989f760f1b9dd39f1df0e2292 M	Demo.java

@@ -1,0 +1,34 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.plugins.publish__over__ftp.BapFtpPublisherPlugin_-Descriptor plugin="publish-over-ftp@1.15">
+  <hostConfigurations>
+    <jenkins.plugins.publish__over__ftp.BapFtpHostConfiguration>
+      <name>ftp_jaya_server</name>
+      <hostname>10.1.4.192</hostname>
+      <username>jayanagavenkatasudha</username>
+      <secretPassword>{AQAAABAAAAAQn1/jxYwmuU7K6fRKWHXMpfkvV6lyaSg6iFMUUy929TI=}</secretPassword>
+      <remoteRootDir></remoteRootDir>
+      <port>21</port>
+      <timeout>300000</timeout>
+      <useActiveData>false</useActiveData>
+      <disableMakeNestedDirs>false</disableMakeNestedDirs>
+      <disableRemoteVerification>false</disableRemoteVerification>
+      <useFtpOverTls>false</useFtpOverTls>
+      <useImplicitTls>false</useImplicitTls>
+    </jenkins.plugins.publish__over__ftp.BapFtpHostConfiguration>
+    <jenkins.plugins.publish__over__ftp.BapFtpHostConfiguration>
+      <name>ftp_server_madhu</name>
+      <hostname>10.1.4.56</hostname>
+      <username>madhubala</username>
+      <secretPassword>{AQAAABAAAABAU7kXawdWMa4Ajj5OwvZRnFYDG/gO/KVFVbgL8jtN5rrjdzBME2kBofvtbNLgD7kRVmqQQ24r2RfMQ2DmEbI5IkLflr6qoACsM+K3jarZbQ4=}</secretPassword>
+      <remoteRootDir></remoteRootDir>
+      <port>21</port>
+      <timeout>300000</timeout>
+      <useActiveData>false</useActiveData>
+      <disableMakeNestedDirs>false</disableMakeNestedDirs>
+      <disableRemoteVerification>false</disableRemoteVerification>
+      <useFtpOverTls>false</useFtpOverTls>
+      <useImplicitTls>false</useImplicitTls>
+    </jenkins.plugins.publish__over__ftp.BapFtpHostConfiguration>
+  </hostConfigurations>
+  <defaults class="jenkins.plugins.publish_over_ftp.options.FtpPluginDefaults"/>
+</jenkins.plugins.publish__over__ftp.BapFtpPublisherPlugin_-Descriptor>

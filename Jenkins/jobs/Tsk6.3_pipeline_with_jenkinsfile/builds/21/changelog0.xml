@@ -1,0 +1,22 @@
+commit ce45768930b2c69abe5df09f42310d493b9d9903
+tree 4f3883b7f4e5f67d481fdee783c207b18f1af8a1
+parent d7a6bb34e75c345a96c3fad46527551aa7c8cb21
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-11 12:29:56 +0530
+committer GitHub <noreply@github.com> 2018-12-11 12:29:56 +0530
+
+    Delete sample1.c
+
+
+
+:100644 000000 1680ca588fc8f1793d7a89dcef275f65d4bc29a3 0000000000000000000000000000000000000000 D	sample1.c
+commit d7a6bb34e75c345a96c3fad46527551aa7c8cb21
+tree 32072a97f68951b56d3bcd4f4b4b8278d691c579
+parent e7a22df3863d08fd604679d4445176081c7b2b3f
+author jayanagavenkatasudhakar <jaya.sudhakar22@gmail.com> 2018-12-11 12:29:41 +0530
+committer GitHub <noreply@github.com> 2018-12-11 12:29:41 +0530
+
+    Delete README.md
+
+
+
+:100644 000000 a51e737c7b89fb8435e6c0d8f3345d42ca38f159 0000000000000000000000000000000000000000 D	README.md
