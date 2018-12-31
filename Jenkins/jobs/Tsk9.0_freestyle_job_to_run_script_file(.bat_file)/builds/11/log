@@ -1,0 +1,9 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\ftp_1
+[ftp_1] $ cmd /c call C:\WINDOWS\TEMP\jenkins8906558943387257836.bat
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>ncftpget -R -v -u jayanagavenkatasudha -p Jasmin@7 ftp://10.1.4.192/* 
+ncftpget: local file appears to be the same as the remote file, download is not necessary.
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>exit 0 
+Finished: SUCCESS

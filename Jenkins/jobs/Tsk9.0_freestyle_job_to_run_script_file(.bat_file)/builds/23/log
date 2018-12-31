@@ -1,0 +1,10 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4BXEw1RZN/NZCKELcS5MekG6AgCMA25wz3JTedS4eloAAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/eT83ILSktQi/dzKkozMnMz4xPTUvBIA04+sJ8wAAAA=[0mmythili_agent (C:\jenkins_jaya\workspace\pipeline_demo) in workspace C:\jenkins_jaya\workspace\pipeline_demo
+[pipeline_demo] $ cmd /c call C:\Users\JASMIN~1\AppData\Local\Temp\jenkins220113998508290239.bat
+
+C:\jenkins_jaya\workspace\pipeline_demo>E:\work_place\scripts\madubala_upload_script.bat
+The system cannot find the path specified.
+
+C:\jenkins_jaya\workspace\pipeline_demo>exit 3 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,28 @@
+Started by user [8mha:////4LrDacuDmq0lZDuB4Y3qjLi6DKCOoVYUxCgEOtH69BqRAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzlEgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIARQy3UNIAAAA=[0mjayanagavenkatasudhakar.bavirisetty
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\Tsk1.2_pulling_source_code_from_github
+Cloning the remote Git repository
+Cloning repository https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe init C:\Program Files (x86)\Jenkins\workspace\Tsk1.2_pulling_source_code_from_github # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision b4c90555255a7a2c1b47f42d3cdb54af64282746 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f b4c90555255a7a2c1b47f42d3cdb54af64282746
+Commit message: "Delete jenkins_1"
+ > git.exe rev-list --no-walk b4c90555255a7a2c1b47f42d3cdb54af64282746 # timeout=10
+No emails were triggered.
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+An attempt to send an e-mail to empty list of recipients, ignored.
+Sending email for trigger: Success
+An attempt to send an e-mail to empty list of recipients, ignored.
+Finished: SUCCESS

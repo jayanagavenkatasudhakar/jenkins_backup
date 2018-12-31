@@ -1,0 +1,8 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4BXEw1RZN/NZCKELcS5MekG6AgCMA25wz3JTedS4eloAAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/eT83ILSktQi/dzKkozMnMz4xPTUvBIA04+sJ8wAAAA=[0mmythili_agent (C:\jenkins_jaya\workspace\declarative_full_pipeline) in workspace C:\jenkins_jaya
+FTP: Connecting from host [jpc952]
+FTP: Connecting with configuration [ftp_testing_new] ...
+FTP: Disconnecting configuration [ftp_testing_new] ...
+FTP: Transferred 52 file(s)
+Build step 'Send files over FTP' changed build result to SUCCESS
+Finished: SUCCESS

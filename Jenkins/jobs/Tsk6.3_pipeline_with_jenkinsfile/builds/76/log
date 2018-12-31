@@ -1,0 +1,22 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Obtained demo_jenkinsfile from git https://github.com/jayanagavenkatasudhakar/jenkins.git
+Running in Durability level: MAX_SURVIVABILITY
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.write(Unknown Source)
+	at hudson.util.FileChannelWriter.write(FileChannelWriter.java:72)
+	at java.io.Writer.write(Unknown Source)
+	at hudson.util.AtomicFileWriter.write(AtomicFileWriter.java:162)
+	at java.io.Writer.write(Unknown Source)
+	at hudson.XmlFile.write(XmlFile.java:189)
+	at org.jenkinsci.plugins.workflow.support.PipelineIOUtils.writeByXStream(PipelineIOUtils.java:30)
+	at org.jenkinsci.plugins.workflow.support.storage.SimpleXStreamFlowNodeStorage.writeNode(SimpleXStreamFlowNodeStorage.java:182)
+	at org.jenkinsci.plugins.workflow.support.storage.SimpleXStreamFlowNodeStorage.flushNode(SimpleXStreamFlowNodeStorage.java:151)
+	at org.jenkinsci.plugins.workflow.support.storage.SimpleXStreamFlowNodeStorage.storeNode(SimpleXStreamFlowNodeStorage.java:125)
+	at org.jenkinsci.plugins.workflow.cps.CpsFlowExecution$TimingFlowNodeStorage.storeNode(CpsFlowExecution.java:1793)
+	at org.jenkinsci.plugins.workflow.cps.FlowHead.newStartNode(FlowHead.java:119)
+	at org.jenkinsci.plugins.workflow.cps.CpsFlowExecution.start(CpsFlowExecution.java:529)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.run(WorkflowRun.java:319)
+	at hudson.model.ResourceController.execute(ResourceController.java:97)
+	at hudson.model.Executor.run(Executor.java:429)
+Finished: FAILURE

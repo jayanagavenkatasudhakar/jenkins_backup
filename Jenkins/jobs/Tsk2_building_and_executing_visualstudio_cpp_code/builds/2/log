@@ -1,0 +1,31 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4PoiT97aUdfmHBRFG9+FGnqu1zE+B4qf3R0h4DidwE4fAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/eT83ILSktQi/eKcxLLUeKP43MSUjFIAujOQF8wAAAA=[0mslave_2_madhu in workspace C:\Jenkins\workspace\building_cpp2
+Path To MSBuild.exe: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe
+Executing the command cmd.exe /C " chcp 1252 & C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe E:\work_place\cpp_jenkin\cpp_practice\hello_world_cpp\hello_world_cpp.vcxproj " && exit %%ERRORLEVEL%% from C:\Jenkins\workspace\building_cpp2
+[building_cpp2] $ cmd.exe /C " chcp 1252 & C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe E:\work_place\cpp_jenkin\cpp_practice\hello_world_cpp\hello_world_cpp.vcxproj " && exit %%ERRORLEVEL%%
+Active code page: 1252
+Microsoft (R) Build Engine version 4.7.3056.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/19/2018 5:18:10 PM.
+Project "E:\work_place\cpp_jenkin\cpp_practice\hello_world_cpp\hello_world_cpp.vcxproj" on node 1 (default targets).
+InitializeBuildStatus:
+  Creating "Debug\hello_world_cpp.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  All outputs are up-to-date.
+Link:
+  All outputs are up-to-date.
+  hello_world_cpp.vcxproj -> E:\work_place\cpp_jenkin\cpp_practice\hello_world_cpp\Debug\hello_world_cpp.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\hello_world_cpp.tlog\unsuccessfulbuild".
+  Touching "Debug\hello_world_cpp.tlog\hello_world_cpp.lastbuildstate".
+Done Building Project "E:\work_place\cpp_jenkin\cpp_practice\hello_world_cpp\hello_world_cpp.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.39
+Sending e-mails to: madhubala.subbaiya@jasmin-infotech.com
+Finished: SUCCESS

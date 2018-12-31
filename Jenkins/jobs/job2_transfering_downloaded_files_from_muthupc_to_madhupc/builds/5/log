@@ -1,0 +1,15 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4B5VCRTvkhavw/9JQTxMCQb1W73BV/yYHrxWsoHvM53JAAAApR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZJ/eT83ILSktQifcf01LyS+NzSkozS3MS8TACpA2JszgAAAA==[0mAgent_muthumani (windows) in workspace c:\jenkins\jaya_pc\workspace\job1_pulling_from_github_to_muthuagent1
+No emails were triggered.
+FTP: Connecting from host [muthumanikandan]
+FTP: Connecting with configuration [ftp_server_madhu] ...
+FTP: Disconnecting configuration [ftp_server_madhu] ...
+FTP: Transferred 3 file(s)
+Build step 'Send files over FTP' changed build result to SUCCESS
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+Sending email to: jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Sending email for trigger: Success
+An attempt to send an e-mail to empty list of recipients, ignored.
+Finished: SUCCESS

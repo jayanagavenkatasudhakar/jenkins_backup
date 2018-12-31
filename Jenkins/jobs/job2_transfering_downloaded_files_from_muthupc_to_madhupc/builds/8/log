@@ -1,0 +1,18 @@
+Started by upstream project "[8mha:////4LdDHJ/0c4sOl/7KfKMgljaP2xhfosxOtidIibi2VLvVAAAAtR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz1EgZd/az8JBA2jC8ozQHamh6fVpSfG5+eWZJRmhRfkh+fWwpkJaan5pUY6gMAE630puIAAAA=[0mjob1_pulling_from_github_to_muthuagent1" build number [8mha:////4KAH4+uw42DKDo4WN8SZw9EP8CpBaid9fLbQI1h8qZGmAAAAtx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ9/az8JBA2jC8ozQHamh6fVpSfG5+eWZJRmhRfkh+fWwpkJaan5pUY6hsaAwB7p3D15AAAAA==[0m13
+originally caused by:
+ Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4B5VCRTvkhavw/9JQTxMCQb1W73BV/yYHrxWsoHvM53JAAAApR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZJ/eT83ILSktQifcf01LyS+NzSkozS3MS8TACpA2JszgAAAA==[0mAgent_muthumani (windows) in workspace c:\jenkins\jaya_pc\workspace\job1_pulling_from_github_to_muthuagent1
+No emails were triggered.
+FTP: Connecting from host [muthumanikandan]
+FTP: Connecting with configuration [ftp_server_madhu] ...
+FTP: Disconnecting configuration [ftp_server_madhu] ...
+FTP: Transferred 3 file(s)
+Build step 'Send files over FTP' changed build result to SUCCESS
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+Sending email to: jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Sending email for trigger: Success
+An attempt to send an e-mail to empty list of recipients, ignored.
+Triggering a new build of [8mha:////4J1YByHqqQyq/jLP0NMPu+jcUVRtnFt0hPaSbd2Sr8LFAAAAyR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAybEgYn/az8JBA2jncqzcxJARoSDzI1Pi0zJ7U4PjMvPjcxJaO0IFmjOCexLNVIM76gKD8rNbmkPL8ou7ggMTlVHwB7qLTQ9wAAAA==[0mjob3_Building_java_files_in_madhupc(slave2)_projectworkspace
+Finished: SUCCESS

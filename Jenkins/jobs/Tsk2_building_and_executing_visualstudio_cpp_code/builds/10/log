@@ -1,0 +1,49 @@
+Started by user [8mha:////4IPVnaOFB/ATfeTOO3xMGbyWGD2DUtxc/5CH1fVOD7F+AAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\Tsk2_building_and_executing_visualstudio_cpp_code
+No emails were triggered.
+Path To MSBuild.exe: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe
+Executing the command cmd.exe /C " chcp 1252 & C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj " && exit %%ERRORLEVEL%% from C:\Program Files (x86)\Jenkins\workspace\Tsk2_building_and_executing_visualstudio_cpp_code
+[Tsk2_building_and_executing_visualstudio_cpp_code] $ cmd.exe /C " chcp 1252 & C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj " && exit %%ERRORLEVEL%%
+Active code page: 1252
+Microsoft (R) Build Engine version 4.7.3056.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/31/2018 10:51:00 AM.
+Project "E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj" on node 1 (default targets).
+InitializeBuildStatus:
+  Creating "Debug\hellowor.7E866BA3.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  All outputs are up-to-date.
+Link:
+  All outputs are up-to-date.
+  helloworld_cpp_pgm.vcxproj -> E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\Debug\helloworld_cpp_pgm.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\hellowor.7E866BA3.tlog\unsuccessfulbuild".
+  Touching "Debug\hellowor.7E866BA3.tlog\helloworld_cpp_pgm.lastbuildstate".
+Done Building Project "E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.58
+[Tsk2_building_and_executing_visualstudio_cpp_code] $ cmd /c call C:\WINDOWS\TEMP\jenkins1943471094717267805.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Tsk2_building_and_executing_visualstudio_cpp_code>E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\Debug\helloworld_cpp_pgm.exe
+Hello Jaya Hou r u!!!!..............Today date:14th Dec 2018
+
+C:\Program Files (x86)\Jenkins\workspace\Tsk2_building_and_executing_visualstudio_cpp_code>echo "Hello Jayaaaa " 
+"Hello Jayaaaa "
+
+C:\Program Files (x86)\Jenkins\workspace\Tsk2_building_and_executing_visualstudio_cpp_code>echo "Project 'Tsk2_building_and_executing_visualstudio_cpp_code'Done Scuccesfully ######!!!!.............." 
+"Project 'Tsk2_building_and_executing_visualstudio_cpp_code'Done Scuccesfully ######!!!!.............."
+
+C:\Program Files (x86)\Jenkins\workspace\Tsk2_building_and_executing_visualstudio_cpp_code>exit 0 
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+An attempt to send an e-mail to empty list of recipients, ignored.
+Sending email for trigger: Success
+An attempt to send an e-mail to empty list of recipients, ignored.
+Finished: SUCCESS

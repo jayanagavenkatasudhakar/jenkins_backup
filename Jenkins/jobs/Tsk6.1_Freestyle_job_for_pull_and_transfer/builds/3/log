@@ -1,0 +1,7 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4B5VCRTvkhavw/9JQTxMCQb1W73BV/yYHrxWsoHvM53JAAAApR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZJ/eT83ILSktQifcf01LyS+NzSkozS3MS8TACpA2JszgAAAA==[0mAgent_muthumani (windows) in workspace C:\jenkins\madhu_mani
+FTP: Connecting from host [muthumanikandan]
+FTP: Connecting with configuration [ftp_server_madhu] ...
+ERROR: Exception when publishing, exception message [Failed to connect and initialize FTP connection. Message: [jenkins.plugins.publish_over.BapPublisherException: Failed to log in with username [] - check username and password]]
+Build step 'Send files over FTP' changed build result to UNSTABLE
+Finished: UNSTABLE

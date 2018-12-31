@@ -1,0 +1,17 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4GIkPvqeljisRHq9B6Z4wsv3uc9WWe4IKoj383juJwjiAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZp/eT83ILSktQi/dzElIzSpMScxPjE9NS8knhDAPsPG+LQAAAA[0mmadhubala_agent_1 (windows) in workspace c:\jenkins\madhubala\workspace\git_testing_1
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url git@gitserver:JIAVBStack.git # timeout=10
+Fetching upstream changes from git@gitserver:JIAVBStack.git
+ > git.exe --version # timeout=10
+using GIT_SSH to set credentials 
+ > git.exe fetch --tags --progress git@gitserver:JIAVBStack.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 0d7493edbb1c96dce798079a60b8bb990802fd34 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 0d7493edbb1c96dce798079a60b8bb990802fd34
+Commit message: "Included SRP Design document,flow chart,sequence diagram & state diagram in Eng5"
+ > git.exe rev-list --no-walk 0d7493edbb1c96dce798079a60b8bb990802fd34 # timeout=10
+Finished: SUCCESS

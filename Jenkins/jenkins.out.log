@@ -1,0 +1,59 @@
+Running from: C:\Program Files (x86)\Jenkins\jenkins.war
+Jenkins home directory: C:\Program Files (x86)\Jenkins found at: EnvVars.masterEnvVars.get("JENKINS_HOME")
+Running from: C:\Program Files (x86)\Jenkins\jenkins.war
+Jenkins home directory: C:\Program Files (x86)\Jenkins found at: EnvVars.masterEnvVars.get("JENKINS_HOME")
+Running from: C:\Program Files (x86)\Jenkins\jenkins.war
+Jenkins home directory: C:\Program Files (x86)\Jenkins found at: EnvVars.masterEnvVars.get("JENKINS_HOME")
+[INFO] Executing: cmd.exe /X /C "git clone https://github.com/jayanagavenkatasudhakar/jenkins_backup.git "C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration""
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration
+[INFO] Executing: cmd.exe /X /C "git ls-remote https://github.com/jayanagavenkatasudhakar/jenkins_backup.git"
+[INFO] Working directory: C:\WINDOWS\TEMP
+[INFO] Executing: cmd.exe /X /C "git pull https://github.com/jayanagavenkatasudhakar/jenkins_backup.git master"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git checkout"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git ls-files"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git add -- hudson.model.UpdateCenter.xml"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git rev-parse --show-toplevel"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git status --porcelain ."
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git rev-parse --show-toplevel"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git status --porcelain ."
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git commit --verbose -F C:\WINDOWS\TEMP\maven-scm-959889210.commit -a"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git symbolic-ref HEAD"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git push https://github.com/jayanagavenkatasudhakar/jenkins_backup.git refs/heads/master:refs/heads/master"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git ls-remote https://github.com/jayanagavenkatasudhakar/jenkins_backup.git"
+[INFO] Working directory: C:\WINDOWS\TEMP
+[INFO] Executing: cmd.exe /X /C "git pull https://github.com/jayanagavenkatasudhakar/jenkins_backup.git master"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git checkout"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+[INFO] Executing: cmd.exe /X /C "git ls-files"
+[INFO] Working directory: C:\Program Files (x86)\Jenkins\scm-sync-configuration\checkoutConfiguration
+hudson.slaves.SlaveComputer@230c93===
+hudson.slaves.SlaveComputer@230c93===
+hudson.slaves.SlaveComputer@230c93===
+oncheckout
+oncheckout
+[INFO] Executing: cmd.exe /X /C "git ls-remote https://github.com/jayanagavenkatasudhakar/jenkins_backup.git"
+[INFO] Working directory: C:\WINDOWS\TEMP
+oncheckout
+oncheckout
+oncheckout
+oncheckout
+hudson.slaves.SlaveComputer@230c93===
+hudson.slaves.SlaveComputer@230c93===
+hudson.slaves.SlaveComputer@230c93===
+[INFO] Executing: cmd.exe /X /C "git ls-remote https://github.com/jayanagavenkatasudhakar/jenkins_backup.git"
+[INFO] Working directory: C:\WINDOWS\TEMP
+oncheckout
+oncheckout
+oncheckout

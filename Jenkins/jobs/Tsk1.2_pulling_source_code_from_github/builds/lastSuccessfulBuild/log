@@ -1,0 +1,28 @@
+Started by an SCM change
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\Tsk1.2_pulling_source_code_from_github
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision db8572319da51d721544c599b902022821c2ee47 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f db8572319da51d721544c599b902022821c2ee47
+Commit message: "Update Demo.java"
+ > git.exe rev-list --no-walk e96e1a06cb9f7aa95bc344b2c36e3f5295b1e8e4 # timeout=10
+No emails were triggered.
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+Warning: noreply@github.com is not a recognized user, but sending mail anyway
+Sending email to: noreply@github.com jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Successfully sent to the following addresses: jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Error sending to the following INVALID addresses: noreply@github.com
+Sending email for trigger: Success
+Warning: noreply@github.com is not a recognized user, but sending mail anyway
+Sending email to: noreply@github.com
+Error sending to the following INVALID addresses: noreply@github.com
+Finished: SUCCESS

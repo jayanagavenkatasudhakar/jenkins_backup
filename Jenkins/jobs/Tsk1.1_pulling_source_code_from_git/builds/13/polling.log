@@ -1,0 +1,10 @@
+Started on Dec 14, 2018 6:39:05 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision 0d7493edbb1c96dce798079a60b8bb990802fd34 (refs/remotes/origin/master)
+ > git.exe --version # timeout=10
+using GIT_SSH to set credentials 
+ > git.exe ls-remote -h git@gitserver:JIAVBStack.git # timeout=10
+Found 6 remote heads on git@gitserver:JIAVBStack.git
+[poll] Latest remote head revision on refs/heads/fqtss is: 889ede29215ab6c24ae0e87822fa0645ba694d3c
+Done. Took 6 sec
+Changes found

@@ -1,0 +1,10 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\ftp_1
+[ftp_1] $ cmd /c call C:\WINDOWS\TEMP\jenkins2480369455116974305.bat
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>cd E:\work_place\ftp_testing\downloads\github_files 
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>ncftpget -u jayanagavenkatasudha -p Jasmin@7 ftp://10.1.4.192/* 
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>exit 0 
+Finished: SUCCESS

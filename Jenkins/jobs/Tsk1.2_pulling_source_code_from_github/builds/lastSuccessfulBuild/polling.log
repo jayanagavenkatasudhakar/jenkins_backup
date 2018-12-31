@@ -1,0 +1,9 @@
+Started on Dec 14, 2018 7:01:05 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision e96e1a06cb9f7aa95bc344b2c36e3f5295b1e8e4 (refs/remotes/origin/master)
+ > git.exe --version # timeout=10
+ > git.exe ls-remote -h https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Found 1 remote heads on https://github.com/jayanagavenkatasudhakar/jenkins.git
+[poll] Latest remote head revision on refs/heads/master is: db8572319da51d721544c599b902022821c2ee47
+Done. Took 2.4 sec
+Changes found

@@ -1,0 +1,13 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\Tsk12_freestyle_job_to_run_script_file(.bat_file)
+[Tsk12_freestyle_job_to_run_script_file(.bat_file)] $ cmd /c call C:\WINDOWS\TEMP\jenkins5886885220487501775.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Tsk12_freestyle_job_to_run_script_file(.bat_file)>E:\work_place\scripts\madubala_upload_script.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Tsk12_freestyle_job_to_run_script_file(.bat_file)>ncftpput -R -u jayanagavenkatasudha -p Jasmin@7 10.1.4.192 / E:\work_place\scripts\new 
+[Tsk12_freestyle_job_to_run_script_file(.bat_file)] $ cmd /c call C:\WINDOWS\TEMP\jenkins901630126375330370.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Tsk12_freestyle_job_to_run_script_file(.bat_file)>E:\work_place\scripts\madhubala_download_script.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Tsk12_freestyle_job_to_run_script_file(.bat_file)>ncftpget -R -u jayanagavenkatasudha -p Jasmin@7 ftp://10.1.4.192 C:\Program Files (x86)\Jenkins\workspace\Tsk12_freestyle_job_to_run_script_file(.bat_file) 
+Finished: SUCCESS

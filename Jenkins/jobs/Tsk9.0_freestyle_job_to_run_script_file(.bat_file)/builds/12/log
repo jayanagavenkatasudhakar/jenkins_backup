@@ -1,0 +1,20 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace E:\work_place\ftp_testing\downloads\github_files
+[github_files] $ cmd /c call C:\WINDOWS\TEMP\jenkins1790450168083333912.bat
+
+E:\work_place\ftp_testing\downloads\github_files>ncftpget -R -v -u jayanagavenkatasudha -p Jasmin@7 ftp://10.1.4.192/* 
+Demo.class:                     Demo.class:                        ETA:   0:00  470.00/470.00 B     0.00 B/s  Demo.class:                        ETA:   0:00  470.00/470.00 B   462.22 kB/s  Demo.class:                                            470.00 B   462.22 kB/s  
+Demo.class:                                            470.00 B   462.22 kB/s  
+Demo.java:                      Demo.java:                         ETA:   0:00  300.00/300.00 B   295.03 kB/s  Demo.java:                         ETA:   0:00  300.00/300.00 B   295.03 kB/s  Demo.java:                                             300.00 B   295.03 kB/s  
+Demo.java:                                             300.00 B   295.03 kB/s  
+jenkinsfile.txt:                jenkinsfile.txt:                   ETA:   0:00  338.00/338.00 B     0.00 B/s  jenkinsfile.txt:                   ETA:   0:00  338.00/338.00 B   336.47 kB/s  jenkinsfile.txt:                                       338.00 B   336.47 kB/s  
+jenkinsfile.txt:                                       338.00 B   336.47 kB/s  
+README.md:                      README.md:                         ETA:   0:00   94.00/ 94.00 B    92.54 kB/s  README.md:                         ETA:   0:00   94.00/ 94.00 B    92.54 kB/s  README.md:                                              94.00 B    92.54 kB/s  
+README.md:                                              94.00 B    92.54 kB/s  
+sample.txt:                     sample.txt:                        ETA:   0:00   72.00/ 72.00 B     0.00 B/s  sample.txt:                        ETA:   0:00   72.00/ 72.00 B    70.31 kB/s  sample.txt:                                             72.00 B    70.31 kB/s  
+sample.txt:                                             72.00 B    70.31 kB/s  
+sample1.c:                      sample1.c:                         ETA:   0:00  129.00/129.00 B     0.00 B/s  sample1.c:                         ETA:   0:00  129.00/129.00 B     0.00 B/s  sample1.c:                                             129.00 B     0.00 B/s  
+sample1.c:                                             129.00 B     0.00 B/s  
+
+E:\work_place\ftp_testing\downloads\github_files>exit 0 
+Finished: SUCCESS

@@ -1,0 +1,29 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4B5VCRTvkhavw/9JQTxMCQb1W73BV/yYHrxWsoHvM53JAAAApR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZJ/eT83ILSktQifcf01LyS+NzSkozS3MS8TACpA2JszgAAAA==[0mAgent_muthumani (windows) in workspace C:\jenkins\jaya_pc\workspace\job1_pulling_from_github_to_muthuagent1
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 9cc3487416bfe73b4129d6c9eca5c22173085033 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 9cc3487416bfe73b4129d6c9eca5c22173085033
+Commit message: "updated date in Demo.java file"
+ > git.exe rev-list --no-walk 03f13263d03d6b7b01646f724ef32fa89dca6b8e # timeout=10
+No emails were triggered.
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+Warning: noreply@github.com is not a recognized user, but sending mail anyway
+Sending email to: noreply@github.com jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Successfully sent to the following addresses: jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Error sending to the following INVALID addresses: noreply@github.com
+Sending email for trigger: Success
+Warning: noreply@github.com is not a recognized user, but sending mail anyway
+Sending email to: noreply@github.com
+Error sending to the following INVALID addresses: noreply@github.com
+Triggering a new build of [8mha:////4L0LvXnWijoOB1e7wK+ZaWJ+BbAtDfotwLTXiGDdgEm4AAAAxB+LCAAAAAAAAP9djU0KwjAUhJ8VPYBLceMFGnAhiBQXbhSqGw8QYpP+meaF5NWfa3gN3XgIj+MdbHFlB4aZxfDN8wMD72Ca19KjCRM0HrUKdyiV3tyscrowpz2Sgp96AcDVwaSz/5vOo8crutt3AMEWhlqZjPIY+rXTBKO4FGfBtDAZO5ArTLZscOMObv3L7q9tyoJgxUo8tp5xcsL4VLUcLvFiNAqpJE8LrTxPHVa8qimvbcIJeSVkW9kXRMwunvQAAAA=[0mjob2_transfering_downloaded_files_from_muthupc_to_madhupc
+Finished: SUCCESS

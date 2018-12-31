@@ -1,0 +1,39 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\building_cpp2
+No emails were triggered.
+Path To MSBuild.exe: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe
+Executing the command cmd.exe /C " chcp 1252 & C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj " && exit %%ERRORLEVEL%% from C:\Program Files (x86)\Jenkins\workspace\building_cpp2
+[building_cpp2] $ cmd.exe /C " chcp 1252 & C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj " && exit %%ERRORLEVEL%%
+Active code page: 1252
+Microsoft (R) Build Engine version 4.7.3056.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/14/2018 7:28:59 PM.
+Project "E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj" on node 1 (default targets).
+InitializeBuildStatus:
+  Creating "Debug\hellowor.7E866BA3.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue Source.cpp
+  Source.cpp
+[8mha:////4OrY910fQLqEk5uY30PZSlGkkU+TKiemaTkkMik5uXisAAAAZR+LCAAAAAAAAP9b85aBtbiIQT2jNKU4P0+vIKc0PTOvWC+3OKk0MydFzzfYCUS7FhXlF/nll6RqTW873+akuJiJgaGiiEEKqis5P684PydVzxlCgxQyQAAjSGEBAFZoBDtlAAAA[0me:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\source.cpp(8): error C2143: syntax error: missing ';' before 'getchar' [E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj]
+Done Building Project "E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+[8mha:////4OrY910fQLqEk5uY30PZSlGkkU+TKiemaTkkMik5uXisAAAAZR+LCAAAAAAAAP9b85aBtbiIQT2jNKU4P0+vIKc0PTOvWC+3OKk0MydFzzfYCUS7FhXlF/nll6RqTW873+akuJiJgaGiiEEKqis5P684PydVzxlCgxQyQAAjSGEBAFZoBDtlAAAA[0m  e:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\source.cpp(8): error C2143: syntax error: missing ';' before 'getchar' [E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.73
+Build step 'Build a Visual Studio project or solution using MSBuild' marked build as failure
+Email was triggered for: Always
+Email was triggered for: Failure - Any
+Sending email for trigger: Failure - Any
+An attempt to send an e-mail to empty list of recipients, ignored.
+Sending email for trigger: Always
+Sending email to: jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Finished: FAILURE

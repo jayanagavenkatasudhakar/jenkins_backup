@@ -1,0 +1,31 @@
+Started by user [8mha:////4IPVnaOFB/ATfeTOO3xMGbyWGD2DUtxc/5CH1fVOD7F+AAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4JRBCIST4TLvCsvakct7A5Cz0uxpDO3J3JijFsQqALjkAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYJ/eT83ILSktQi/cT01LyS+NzKkozMnEwjAGNeD3TNAAAA[0magent_mythili2 (windows) in workspace D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 91e32c9b188903b431cfd8aa51d7e47990c7f645 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 91e32c9b188903b431cfd8aa51d7e47990c7f645
+Commit message: "Update Demo.java"
+ > git.exe rev-list --no-walk 91e32c9b188903b431cfd8aa51d7e47990c7f645 # timeout=10
+No emails were triggered.
+FTP: Connecting from host [JPC637]
+FTP: Connecting with configuration [ftp_jaya_server] ...
+FTP: Disconnecting configuration [ftp_jaya_server] ...
+FTP: Transferred 0 file(s)
+Build step 'Send files over FTP' changed build result to SUCCESS
+Email was triggered for: Always
+Email was triggered for: Success
+Email was triggered for: Unstable (Test Failures)/Failure -> Success
+Trigger Success was overridden by another trigger and will not send an email.
+Sending email for trigger: Unstable (Test Failures)/Failure -> Success
+An attempt to send an e-mail to empty list of recipients, ignored.
+Sending email for trigger: Always
+An attempt to send an e-mail to empty list of recipients, ignored.
+Triggering a new build of [8mha:////4GyaHcMXBbP7Iw5bhOgTRn7+N42hzHRahjKgXygNqvpZAAAAtx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzNEgZ9/az8JP2Q4mwzPaN4t6LU1OKSypzUeKBgfFJpZk4K0ND4xLyU+BKgBJCtDwBAxo9t5AAAAA==[0mTsk6.2_Freestyle_job_building_and_testing
+Finished: SUCCESS

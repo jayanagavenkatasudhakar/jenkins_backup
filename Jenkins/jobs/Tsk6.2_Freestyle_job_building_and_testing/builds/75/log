@@ -1,0 +1,30 @@
+Started by upstream project "[8mha:////4NpxUIK4Hq1VvtksZ0gbJ10lDAUA+zWm2jlh+swoZeCuAAAAux+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAytEgYD/az8JP2Q4mwzPcN4t6LU1OKSypzUeKBgfFp+UXxBaU5OfGJeSnxJUWJecVpqkT4AWyercOUAAAA=[0mTsk6.1_Freestyle_job_for_pull_and_transfer" build number [8mha:////4It35d1Np7vbOEe03lrlTl+N3q9U50YEKnwmu6B7gFHtAAAAvR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYj/az8JP2Q4mwzPcN4t6LU1OKSypzUeKBgfFp+UXxBaU5OfGJeSnxJUWJecVpqkb6ZMQDUOcT95wAAAA==[0m63
+originally caused by:
+ Started by user [8mha:////4IPVnaOFB/ATfeTOO3xMGbyWGD2DUtxc/5CH1fVOD7F+AAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4JRBCIST4TLvCsvakct7A5Cz0uxpDO3J3JijFsQqALjkAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYJ/eT83ILSktQi/cT01LyS+NzKkozMnEwjAGNeD3TNAAAA[0magent_mythili2 (windows) in workspace D:\jenkins_jaya\workspace\Tsk6.2_Freestyle_job_building_and_testing
+No emails were triggered.
+[Tsk6.2_Freestyle_job_building_and_testing] $ cmd /c call C:\Users\mythili\AppData\Local\Temp\jenkins14914135491941470886.bat
+
+D:\jenkins_jaya\workspace\Tsk6.2_Freestyle_job_building_and_testing>javac "D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer\Demo.java" 
+
+D:\jenkins_jaya\workspace\Tsk6.2_Freestyle_job_building_and_testing>cd D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer 
+
+D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer>D:
+
+D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer>java Demo 
+Hello !!! Jaya todya date is 28th Dec 2018
+ Welcome 2019!!!
+'Showing  Freestyle job DEMO Completed############ '
+Good BYe ..........Mr.JAYA NAGA VENKATA SUDHAKAR.BAVIRISETTY!!!!!
+
+D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer>echo 'YES!!###!!!Task6.2 completed10012222' 
+'YES!!###!!!Task6.2 completed10012222'
+
+D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer>exit 0 
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+An attempt to send an e-mail to empty list of recipients, ignored.
+Sending email for trigger: Success
+An attempt to send an e-mail to empty list of recipients, ignored.
+Finished: SUCCESS

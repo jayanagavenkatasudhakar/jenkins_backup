@@ -1,0 +1,45 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\building_cpp2
+No emails were triggered.
+Path To MSBuild.exe: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe
+Executing the command cmd.exe /C " chcp 1252 & C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj " && exit %%ERRORLEVEL%% from C:\Program Files (x86)\Jenkins\workspace\building_cpp2
+[building_cpp2] $ cmd.exe /C " chcp 1252 & C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj " && exit %%ERRORLEVEL%%
+Active code page: 1252
+Microsoft (R) Build Engine version 4.7.3056.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/14/2018 7:25:30 PM.
+Project "E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj" on node 1 (default targets).
+InitializeBuildStatus:
+  Creating "Debug\hellowor.7E866BA3.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  All outputs are up-to-date.
+Link:
+  All outputs are up-to-date.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\Debug\helloworld_cpp_pgm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\Debug\helloworld_cpp_pgm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\Debug\helloworld_cpp_pgm.lib" /MACHINE:X86 Debug\Source.obj
+  helloworld_cpp_pgm.vcxproj -> E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\Debug\helloworld_cpp_pgm.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\hellowor.7E866BA3.tlog\unsuccessfulbuild".
+  Touching "Debug\hellowor.7E866BA3.tlog\helloworld_cpp_pgm.lastbuildstate".
+Done Building Project "E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\helloworld_cpp_pgm.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.72
+[building_cpp2] $ cmd /c call C:\WINDOWS\TEMP\jenkins7644249553769038035.bat
+
+C:\Program Files (x86)\Jenkins\workspace\building_cpp2>E:\work_place\cpp_jenkin\helloworld_cpp_pgm\helloworld_cpp_pgm\Debug\helloworld_cpp_pgm.exe
+Hello Jaya testing Jenkins visual studio job!!!!..............
+C:\Program Files (x86)\Jenkins\workspace\building_cpp2>exit 0 
+Email was triggered for: Always
+Email was triggered for: Success
+Email was triggered for: Unstable (Test Failures)/Failure -> Success
+Trigger Success was overridden by another trigger and will not send an email.
+Sending email for trigger: Unstable (Test Failures)/Failure -> Success
+Sending email to: jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Sending email for trigger: Always
+Sending email to: jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Finished: SUCCESS

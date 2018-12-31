@@ -1,0 +1,13 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4BuqqTmfLBr39w/HF72XjShSQ/Y2ssq2j+XmBUUrkt3WAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/cT01LyS+NzElIxSAPmbpYzKAAAA[0magent_madhu (windows) in workspace C:\Jenkins\1001\workspace\ftp_files_transfer
+FTP: Connecting from host [madhubala]
+FTP: Connecting with configuration [ftp testing] ...
+FTP: Disconnecting configuration [ftp testing] ...
+FTP: Transferred 0 file(s)
+Build step 'Send files over FTP' changed build result to SUCCESS
+FTP: Connecting from host [madhubala]
+FTP: Connecting with configuration [ftp testing] ...
+FTP: Disconnecting configuration [ftp testing] ...
+ERROR: Exception when publishing, exception message [An FTP Transfer Set must contain Source files - if you really want to include everything, set Source files to **/* or **\*]
+Build step 'Send build artifacts over FTP' changed build result to UNSTABLE
+Finished: UNSTABLE

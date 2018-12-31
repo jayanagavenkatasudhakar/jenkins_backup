@@ -1,0 +1,18 @@
+Started by an SCM change
+Started by an SCM change
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\git_testing_1
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url git@gitserver:JIAVBStack.git # timeout=10
+Fetching upstream changes from git@gitserver:JIAVBStack.git
+ > git.exe --version # timeout=10
+using GIT_SSH to set credentials 
+ > git.exe fetch --tags --progress git@gitserver:JIAVBStack.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/fqtss^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/fqtss^{commit}" # timeout=10
+Checking out Revision 889ede29215ab6c24ae0e87822fa0645ba694d3c (refs/remotes/origin/fqtss)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 889ede29215ab6c24ae0e87822fa0645ba694d3c
+Commit message: "Merge branch 'fqtss' of gitserver:JIAVBStack into fqtss"
+ > git.exe rev-list --no-walk 889ede29215ab6c24ae0e87822fa0645ba694d3c # timeout=10
+Finished: SUCCESS

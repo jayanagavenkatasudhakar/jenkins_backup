@@ -1,0 +1,24 @@
+Started at Mon Dec 31 10:15:12 IST 2018
+Checking job1_pulling_from_github_to_muthuagent1
+Checking job1_pulling_from_github_to_muthuagent1-pipeline
+Checking job2_transfering_downloaded_files_from_muthupc_to_madhupc
+Checking job2_transfering_downloaded_files_from_muthupc_to_madhupc-pipeline
+Checking job3_Building_java_files_in_madhupc(slave2)_projectworkspace-pipeline
+Checking job4_testing_java_project
+Checking job4_testing_java_project-pipeline
+Checking Tsk1.1_pulling_source_code_from_git
+Checking Tsk1.2_pulling_source_code_from_github
+Checking Tsk2_building_and_executing_visualstudio_cpp_code
+Checking Tsk4.1_transferring_files_between_slaves(freestylejob)
+Checking Tsk4.2_transferring_files_between_slaves(Pipeline job)
+Checking Tsk6.1_Freestyle_job_for_pull_and_transfer
+Checking Tsk6.2_Freestyle_job_building_and_testing
+Checking Tsk6.3_pipeline_with_jenkinsfile
+Checking Tsk7.0_1st_pipeline_creating_and_testing
+Checking Tsk7.2.1.1_Scripted_pipeline_to_pull_from_github
+Checking Tsk7.2.1.2_Scripted_pipeline_to_pull_AVB_code_from_git
+Checking Tsk7.3.4_pipeline_for_parallel_operation
+Checking Tsk7.3.5_jenkins_functions
+Checking Tsk7.3_Pipeline_directives_environment variables_options_parameters
+Checking Tsk9.0_freestyle_job_to_run_script_file(.bat_file)
+Finished at Mon Dec 31 10:15:12 IST 2018. 515ms

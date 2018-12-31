@@ -1,0 +1,25 @@
+Started by upstream project "[8mha:////4L0LvXnWijoOB1e7wK+ZaWJ+BbAtDfotwLTXiGDdgEm4AAAAxB+LCAAAAAAAAP9djU0KwjAUhJ8VPYBLceMFGnAhiBQXbhSqGw8QYpP+meaF5NWfa3gN3XgIj+MdbHFlB4aZxfDN8wMD72Ca19KjCRM0HrUKdyiV3tyscrowpz2Sgp96AcDVwaSz/5vOo8crutt3AMEWhlqZjPIY+rXTBKO4FGfBtDAZO5ArTLZscOMObv3L7q9tyoJgxUo8tp5xcsL4VLUcLvFiNAqpJE8LrTxPHVa8qimvbcIJeSVkW9kXRMwunvQAAAA=[0mjob2_transfering_downloaded_files_from_muthupc_to_madhupc" build number [8mha:////4Bfiov0tSIEPg+ekW14yceWVy2Y0jKH3VoQUb6I/+xb9AAAAwx+LCAAAAAAAAP9djUsKwjAYhH8regCX4sYLNOCiGykIbhSqGw8QYpO+TPOHPHxcw2voxkN4HO+goSs7MMwshm+eHxhZA/PKc4sqzlFZlCLeIRdyc9PCyFqd9ugEdBpEAFcDs97+b5qkj1d61+8Ioi2MpVClqzIYeiMdTLKGnRmRTJXk4EytyuUPN+3h1l32f3UoDlakwWPwgjrDlC1E4FCOFyWRccFpUUthaWGwpa13ldc5dUhbxkMlyRcpgOUe9QAAAA==[0m6
+originally caused by:
+ Started by upstream project "[8mha:////4LdDHJ/0c4sOl/7KfKMgljaP2xhfosxOtidIibi2VLvVAAAAtR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz1EgZd/az8JBA2jC8ozQHamh6fVpSfG5+eWZJRmhRfkh+fWwpkJaan5pUY6gMAE630puIAAAA=[0mjob1_pulling_from_github_to_muthuagent1" build number [8mha:////4D4C4xvH2t0T0U2FtmclaE+bqzmwv80+eF7EZGWtpJxoAAAAtx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ9/az8JBA2jC8ozQHamh6fVpSfG5+eWZJRmhRfkh+fWwpkJaan5pUY6hsaAgBXxn4b5AAAAA==[0m11
+ originally caused by:
+  Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4BuqqTmfLBr39w/HF72XjShSQ/Y2ssq2j+XmBUUrkt3WAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/cT01LyS+NzElIxSAPmbpYzKAAAA[0magent_madhu (windows) in workspace D:\ftp_folder\pipeline
+No emails were triggered.
+[pipeline] $ cmd /c call C:\Users\MADHUB~1\AppData\Local\Temp\jenkins12038782936142282566.bat
+
+D:\ftp_folder\pipeline>xcopy /hievry D:\ftp_folder\pipeline C:\Jenkins\pipeline_testing 
+D:\ftp_folder\pipeline\Demo.java
+D:\ftp_folder\pipeline\README.md
+D:\ftp_folder\pipeline\sample1.c
+3 File(s) copied
+
+D:\ftp_folder\pipeline>javac C:\Jenkins\pipeline_testing\Demo.java 
+
+D:\ftp_folder\pipeline>exit 0 
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+Sending email to: jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Sending email for trigger: Success
+An attempt to send an e-mail to empty list of recipients, ignored.
+Finished: SUCCESS

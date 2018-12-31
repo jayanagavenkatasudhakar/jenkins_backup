@@ -1,0 +1,26 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace D:\JAYA_WORK\Docs\ALSA\testing
+[testing] $ cmd /c call C:\WINDOWS\TEMP\jenkins8078959157520278567.bat
+
+D:\JAYA_WORK\Docs\ALSA\testing>ftp:\\10.1.4.192
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\JAYA_WORK\Docs\ALSA\testing>username jayanagavenkatasudha 
+'username' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\JAYA_WORK\Docs\ALSA\testing>password Jasmin@7 
+'password' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\JAYA_WORK\Docs\ALSA\testing>get jenkinfile_1 
+'get' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\JAYA_WORK\Docs\ALSA\testing>quit
+'quit' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\JAYA_WORK\Docs\ALSA\testing>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

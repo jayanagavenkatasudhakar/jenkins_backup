@@ -1,0 +1,23 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\git_testing_1
+Cloning the remote Git repository
+Cloning repository git@gitserver:JIAVBStack.git
+ > git.exe init C:\Program Files (x86)\Jenkins\workspace\git_testing_1 # timeout=10
+Fetching upstream changes from git@gitserver:JIAVBStack.git
+ > git.exe --version # timeout=10
+using GIT_SSH to set credentials 
+ > git.exe fetch --tags --progress git@gitserver:JIAVBStack.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe config remote.origin.url git@gitserver:JIAVBStack.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url git@gitserver:JIAVBStack.git # timeout=10
+Fetching upstream changes from git@gitserver:JIAVBStack.git
+using GIT_SSH to set credentials 
+ > git.exe fetch --tags --progress git@gitserver:JIAVBStack.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/fqtss^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/fqtss^{commit}" # timeout=10
+Checking out Revision 889ede29215ab6c24ae0e87822fa0645ba694d3c (refs/remotes/origin/fqtss)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 889ede29215ab6c24ae0e87822fa0645ba694d3c
+Commit message: "Merge branch 'fqtss' of gitserver:JIAVBStack into fqtss"
+First time build. Skipping changelog.
+Finished: SUCCESS

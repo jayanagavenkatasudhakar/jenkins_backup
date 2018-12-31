@@ -1,0 +1,24 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4B5VCRTvkhavw/9JQTxMCQb1W73BV/yYHrxWsoHvM53JAAAApR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZJ/eT83ILSktQifcf01LyS+NzSkozS3MS8TACpA2JszgAAAA==[0mAgent_muthumani (windows) in workspace C:\jenkins\jaya_pc\workspace\job1_pulling_from_github_to_muthuagent1
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 03f13263d03d6b7b01646f724ef32fa89dca6b8e (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 03f13263d03d6b7b01646f724ef32fa89dca6b8e
+Commit message: "updated date to 29th Demo.java file"
+ > git.exe rev-list --no-walk 03f13263d03d6b7b01646f724ef32fa89dca6b8e # timeout=10
+No emails were triggered.
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+Sending email to: jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Sending email for trigger: Success
+An attempt to send an e-mail to empty list of recipients, ignored.
+Triggering a new build of [8mha:////4FAGIustvQh4ctXYp3dzvhYzWOGucI9KvDbyJ+jC5WKAAAAAwR+LCAAAAAAAAP9djbsNwjAYhH+CYABKRMMCsYQETZSKBqRAwwCWiZ0Xjn/LDyBrsAY0DME47ECiVOSk011x+u71hYk1sCw8t6jCFJVFKcIDciF3jRZGlupyRCeg1ygAuBtYDPZ/0038fMcP/Qkg2MNUCpW7IoGxN9LBLKnYlRHJVE5OzpQqj1rcfIDb9jn81W1ZO4hIhefOK5qibloG5XhTEhkXnGalFJZmBmtae1d4nVKHtGa8q+QHMCMoWfAAAAA=[0mjob2_copying_downloaded_files_from_muthupc_to_madhupc
+Finished: SUCCESS

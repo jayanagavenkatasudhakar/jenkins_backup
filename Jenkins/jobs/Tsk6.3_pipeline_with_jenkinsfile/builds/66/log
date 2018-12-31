@@ -1,0 +1,430 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Obtained demo_jenkinsfile from git https://github.com/jayanagavenkatasudhakar/jenkins.git
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4N9H+sByKJRESA2nc8xHtrQkDXAmEP5kIKF+VIUIfQxYAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] stage
+[8mha:////4PHq0o6VZuubXICdZZ0PdKA4hwhusHlNI/EohXp7HXJ2AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] { (pulling_source_code_to_Mythili_PC)
+[8mha:////4L3ECD/Ayf7BSikQtJcBWDoWV/4t/ypGrnAa2r8PazZ6AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] node
+Running on [8mha:////4DeLDQgAKj0Hd714WAAY0C7Is/wEnVObSJYldnEnVdprAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgYJ/eT83ILSktQi/dzKkozMnMz4xPTUvBJ9ACqSdYTNAAAA[0mmythili_agent in C:\jenkins_jaya\workspace\pipeline_demo
+[8mha:////4M9DxjPnLomB8Toaknokx9t8OxF2MsiRDQaIzvc6236HAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] {
+[8mha:////4Cg0KQRw9IZaenb6TS3dvAfnrDaSTuQQaGc7ypyH+JYwAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+Fetching changes from the remote Git repository
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+Checking out Revision 2f38b6a01d9164fbddbbdecd236c06da4265da51 (refs/remotes/origin/master)
+Commit message: "Update demo_jenkinsfile"
+[8mha:////4AeOr4sdSIPzkbFoW1f0ctjWLo9iMyQQNztONNzlbgoEAAAApR+LCAAAAAAAAP9tjUEKwjAURH8qXbh16SHSnQjiym3IxhPEJMa04f82SW1XnsireQejBVcODMwMDO/5gjpFOFJ0vLXYeUza8z6MriQ+UeyugSbe0oVrwkTBcmknScaeliopW1jEKlgJWFvUgZJHl2EjWnVXTVDomnOOZTsIqLwZ4AFMFHJWMX/LHGF7G00i/HH+AmDuM7Bd8f7zq9/XNDXAwAAAAA==[0m[Pipeline] withEnv
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 2f38b6a01d9164fbddbbdecd236c06da4265da51
+ > git.exe rev-list --no-walk 7a97da03d482fd8534d22214923fd782db563185 # timeout=10
+[8mha:////4HtkbWaHxJsRD7Isi9wmuZPMNphC/WChSRdcKrh/6pteAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0BSEm1igLJwhJCGmj/9skpZ04EVfjDgQqMWHJkm3Jes8X1CnCkaLjrcXOY9Ke92F0JfGJYncNNPGWLlwTJgqWSztJMva0VEnZwiJWwUrA2qIOlDy6DBvRqrtqgkLXnHMs20FA5c0AD2CikLOK+VvmCNvbaBLhj/MXAHOfge2K959f/QbB16AVwAAAAA==[0m[Pipeline] {
+[8mha:////4Gyt3owS0ECCaV21Ku5yjDWzbcHMaho37xuZyUHUzNbEAAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKBEiEqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBjJ8j2gny37T6VOYoyvQAAAA==[0m[Pipeline] git
+Fetching changes from the remote Git repository
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+Checking out Revision 2f38b6a01d9164fbddbbdecd236c06da4265da51 (refs/remotes/origin/master)
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 2f38b6a01d9164fbddbbdecd236c06da4265da51
+ > git.exe branch -a -v --no-abbrev # timeout=10
+Commit message: "Update demo_jenkinsfile"
+[8mha:////4MrCnbOb7g4W4yrpjAhmE9WUQ49jkbVIV31H5HE3wix9AAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6KE0Rgn14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmXpDtBXlZ9h/UCJErvQAAAA==[0m[Pipeline] echo
+ Pulling source code sucessfully don......!!!!.....
+[8mha:////4Mx9dz/Amok1+pD1eMEwQQ9BpA8PqsSY/ua2uqPu4GHgAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRdAhR0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Qb3eCbP8BWAQ01r0AAAA=[0m[Pipeline] }
+[8mha:////4A4mukrP8xlkkE/liMWsZvvoERroRgAK5zo4k8kwPjjGAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRokFCVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5NudINt/AH4dU5y9AAAA[0m[Pipeline] // withEnv
+[8mha:////4FqhmRkbg0ET2oKkWFKw53C4sAUMTnrQiQbX71m5ZZmTAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIREqJBVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5NudINt/AGnsy8m9AAAA[0m[Pipeline] }
+[8mha:////4L9WYxrpcQJZBR27Ldm/ipnz4FunzSiz4xtl+CSrknNHAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiKMBZVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0g35eCrPwAY5Sibb0AAAA=[0m[Pipeline] // node
+[8mha:////4HgC1CnOAaNkwzNMtj0fkW8T2I5UUh+bTjKSSKygoz+VAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIREqJBVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9ACXeBV29AAAA[0m[Pipeline] }
+[8mha:////4N1YtoUrYVpZNfzcJjgr2iTjI4Mrm6XaOpsNPLhNOrpoAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRoqBAVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9ADZiAf69AAAA[0m[Pipeline] // stage
+[8mha:////4DswGEng9Bio4mby3JZMRPsxmzLMgsnet8fnUTgYFSgbAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjqJAQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHILYMxWb3OZZvmKzMVcEAAAA=[0m[Pipeline] stage
+[8mha:////4B5vkxqWOmdglJ9pZ+CEkySCaZ8tVMhxBtltbDshpdvgAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUbCDE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASnCIIrCAAAA[0m[Pipeline] { (Transfering_files_to_Madhubala_pc)
+[8mha:////4LxE9vw4IXUpWegivqR6f0NLKixbWTaqIo5lWC+WVbJZAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogU2BDqxBp14QShCSFp9H9JUtKJE3E17kCgEhMeLNuS9Z4vqIKHhrxmVmFvMHSGDW7UObFEvr84SszSmXWEgZxirUotSXWca0tRwayihAWHpcLOUTCoI6y4FXdRO4G6PkWftwOH0sgbPKDgmRyFj98yeVhfRxkIf5y/AJiGCOV2n223+TyrN7xWSV3CAAAA[0m[Pipeline] node
+Running on [8mha:////4DeLDQgAKj0Hd714WAAY0C7Is/wEnVObSJYldnEnVdprAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgYJ/eT83ILSktQi/dzKkozMnMz4xPTUvBJ9ACqSdYTNAAAA[0mmythili_agent in C:\jenkins_jaya\workspace\pipeline_demo
+[8mha:////4OKRYlYeCGoY8Om76L0osxibTn1ro09OPD4zlLrjlOzjAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUWBFT1ygLJwhNCGmj/8tPSjtxIq7GHWipxIQHy7ZkvdcbishwInaisdh6jLUXXejdlMRA3F4DDaKhi6gJIwUrlB0UGVstVVGysCjLYSVhbbEOFD26BBvZ6Icug0ZXnhNP21FC7s0dnpDJiZw0p28ZGba33kTCH+cvAMYuQX7Yzbafn8UHbGnGmsIAAAA=[0m[Pipeline] {
+[8mha:////4EfU5Y6ea4ch5kibZ+DONj8AQ5BcmZrNsi1uj8d5W/adAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi0iIqWisNLzCJMXasO8d2cCpexNf4A4FIVGyx2tlmni9YxwBHDhqtot5QbA16N+p5YebQXx1ntHzBlimyU9io3HCnTgs2nBQsKUpYCdgoah1HQzrBVlh5l5WTpKtzCvN3EFCaboAHFGI2JxnSF6YAu9vYRaaf568AJp+grPefqv0bH7uiub4AAAA=[0m[Pipeline] checkout
+Fetching changes from the remote Git repository
+ > git.exe branch -D master # timeout=10
+ > git.exe checkout -b master 2f38b6a01d9164fbddbbdecd236c06da4265da51
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+Checking out Revision 2f38b6a01d9164fbddbbdecd236c06da4265da51 (refs/remotes/origin/master)
+Commit message: "Update demo_jenkinsfile"
+[8mha:////4Ie+TMRza0/dMjfntUNZDZnu9MWP9F9s2XrfhZIIAMtQAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfL9brbD/Cw+pxeAFsIAAAA=[0m[Pipeline] withEnv
+[8mha:////4P2OomZei9JQOjE81JLrNNBxC+SeHW78f7bDLt6QegqPAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAjbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAd6e6VPCAAAA[0m[Pipeline] {
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 2f38b6a01d9164fbddbbdecd236c06da4265da51
+[8mha:////4LcLMBUGqwLoWIalZQuFyXsFnIF9IJXjLw5nIGPbTJ41AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN38C26S+AAAA[0m[Pipeline] bat
+
+C:\jenkins_jaya\workspace\pipeline_demo>ncftpput -R -u madhubala -p Madhu@123 10.1.4.56 / C:/jenkins_jaya/workspace/pipeline_demo  
+[8mha:////4ObxUFwCaPizlIfIdH2D1S+zk1rIjTDX0jrcOP+eIW88AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAG8UfaPvgAAAA==[0m[Pipeline] echo
+Transfering to FTP Server sucessfull........!!!......
+[8mha:////4H6Ao4VX0EVZncIg40QEBSciP1U0IEwp+Z9I6SI7AEn2AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiISQKRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g1GGkcWvgAAAA==[0m[Pipeline] }
+[8mha:////4IYALRBPw3RlH6opaVAXi6HiMG2GU4+R4176d4dqG4hCAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiQYOEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQEwPXV5vgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4PRDqirJG6bv7a4/Pcn/Y1afpLs+FIlZTkV40DXD3HJ3AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi6BCiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BrmPJ1y+AAAA[0m[Pipeline] }
+[8mha:////4Bfe9a4kDQj1eZzXy1KcP3aXC+dLlAkhkSubExdAzy8pAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOISQYmo0lppeIGJjXFi3RnbIal4EV/jD1hEomKL1c4283rDOgY4cTDYaxosxc6id6PJCycOw9XxhD1fsGOK7DS2empZ6WbBlpOGJUUJKwEbTZ3jaMkk2IpePmTlJJnqnEL+jgJKq+7whEJkc5IhfWEOsLuNKjL9PH8FMHufoDzUufb1B1PlWKq+AAAA[0m[Pipeline] // node
+[8mha:////4ECZu/Na7lXgWNFEZm185VhJGdYrmZoqb6bDU6+aCBARAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiiAohqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AGR3fUzvgAAAA==[0m[Pipeline] }
+[8mha:////4IlZUIl6pDnjPoq4DPhNdeJoLkQZ8sw1a/iUEnIac4VvAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioEFCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDud7m2hw+pn2bCvgAAAA==[0m[Pipeline] // stage
+[8mha:////4DzjYtkTs/XJasHHgwNGaNH2bxN86XC89ihUhvGT4vb5AAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjkRJR0VpueIFJjHFi3QX7QlLxIr7GHzBEomKrnZVW83xBmSIcKDrZWew9psbLIYwuNzlR7C+BJtnRWTaEiYKV2k6aWntcUBNbWCIKWClYW2wCJY+OYaM6czdVMOiqE8e87RUUvr3BA4TKZjaRvzBH2F7HNhH+PH8FMA8MYsdQ1PXnWL4Bck2UqMEAAAA=[0m[Pipeline] stage
+[8mha:////4CJG6mFhPaa04ODkzgiNcbHd4ByPIQTN+JWtuIzqSCKwAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0KBtiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPBdk7bsIAAAA=[0m[Pipeline] { (Building_At_Madhu_pc)
+[8mha:////4KRHR1kucoUoP/VV3VXJ4kDrkN1cvmERFWvavBJNYhMmAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0ACbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASMfXIzCAAAA[0m[Pipeline] node
+Running on [8mha:////4A+VygyEpht9iI3kJDNoEk6VdfJ3wj3mak8uwOCQzp8gAAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgYx/eT83ILSktQi/cT01LyS+NzElIxSfQDKBNvLywAAAA==[0magent_madhu in C:\Jenkins\1001\workspace\pipeline_demo
+[8mha:////4HjvHC2tSESsl0/dKdThMvouTj/CH/QNSTTj6XfZAZx7AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD02yRsvCAAAA[0m[Pipeline] {
+[8mha:////4DZ3NAwEs9EZzePi+oTsUh2+s/U9RYaNfa0UdcpMeHunAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIEGBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAF9GxrMvgAAAA==[0m[Pipeline] checkout
+Fetching changes from the remote Git repository
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+Checking out Revision 2f38b6a01d9164fbddbbdecd236c06da4265da51 (refs/remotes/origin/master)
+Commit message: "Update demo_jenkinsfile"
+[8mha:////4KM9RlThe43EnNY66pRqh99lnbUvLTZoWzdv6jMY1hzKAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QEJIiKlrlIUThCaEtNH/5SelnTgRV+MOtFRiwoNlW7Le6w1FZDgRO9FYbD3G2osu9G5KYiBur4EG0dBF1ISRghXKDoqMrZaqKFlYlOWwkrC2WAeKHl2CjWz0Q5dBoyvPiaftKCH35g5PyORETprTt4wM21tvIuGP8xcAY5cg3+1nO8zP4gM8ta5owgAAAA==[0m[Pipeline] withEnv
+[8mha:////4DV1SwE4mEyVU5Etog6L0eE04e0XEHeZX12o3sASNq9+AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0YAEhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD59NhPHCAAAA[0m[Pipeline] {
+[8mha:////4PmeOpIepqmM/0biATjbSIzPLPSiJ8Pcflo75vkd1ZQWAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBA1CqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKYhQrk75Npvhw/W61xwvgAAAA==[0m[Pipeline] bat
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 2f38b6a01d9164fbddbbdecd236c06da4265da51
+
+C:\Jenkins\1001\workspace\pipeline_demo>robocopy /e "D:/ftp_folder/pipeline_demo" "C:/Jenkins/1001"  
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tue Dec 11 16:42:34 2018
+
+   Source : D:\ftp_folder\pipeline_demo\
+     Dest : C:\Jenkins\1001\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   6	D:\ftp_folder\pipeline_demo\
+	*EXTRA Dir        -1	C:\Jenkins\1001\copy_testing\
+	*EXTRA Dir        -1	C:\Jenkins\1001\remoting\
+	*EXTRA Dir        -1	C:\Jenkins\1001\workspace\
+	  *EXTRA File 		  776265	agent.jar
+	  *EXTRA File 		     189	command_to_run_establesh_slave connection with master.txt
+	    New File  		     497	Demo.class  0%  100%  
+	    New File  		     328	Demo.java  0%  100%  
+	    New File  		     884	demo_jenkinsfile  0%  100%  
+	    New File  		     686	jenkins_1  0%  100%  
+	    New File  		     247	jenkins_total  0%  100%  
+	    New File  		     352	Jenkinsfile  0%  100%  
+	  New Dir          5	D:\ftp_folder\pipeline_demo\.git\
+	    New File  		     255	config  0%  100%  
+	    New File  		      73	description  0%  100%  
+	    New File  		     112	FETCH_HEAD  0%  100%  
+	    New File  		      41	HEAD  0%  100%  
+	    New File  		     449	index  0%  100%  
+	  New Dir         11	D:\ftp_folder\pipeline_demo\.git\hooks\
+	    New File  		     478	applypatch-msg.sample  0%  100%  
+	    New File  		     896	commit-msg.sample  0%  100%  
+	    New File  		    3327	fsmonitor-watchman.sample  0%  100%  
+	    New File  		     189	post-update.sample  0%  100%  
+	    New File  		     424	pre-applypatch.sample  0%  100%  
+	    New File  		    1638	pre-commit.sample  0%  100%  
+	    New File  		    1492	prepare-commit-msg.sample  0%  100%  
+	    New File  		    1348	pre-push.sample  0%  100%  
+	    New File  		    4898	pre-rebase.sample  0%  100%  
+	    New File  		     544	pre-receive.sample  0%  100%  
+	    New File  		    3610	update.sample  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\info\
+	    New File  		     240	exclude  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\logs\
+	    New File  		   22582	HEAD  0%  100%  
+	  New Dir          0	D:\ftp_folder\pipeline_demo\.git\logs\refs\
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\logs\refs\heads\
+	    New File  		     196	master  0%  100%  
+	  New Dir          0	D:\ftp_folder\pipeline_demo\.git\logs\refs\remotes\
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\logs\refs\remotes\origin\
+	    New File  		    8679	master  0%  100%  
+	  New Dir          0	D:\ftp_folder\pipeline_demo\.git\objects\
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\00\
+	    New File  		     568	888ae2f893130329f36085f40004885094d049  0%  100%  
+	    New File  		     178	9be91bdc1367ccd6ba16abfa8a05694d791113  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\02\
+	    New File  		     433	709473241d1319910f7aa026817af4e473fd1b  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\03\
+	    New File  		     431	70e09881953de9ee4befc6109b716d4c2fbf6e  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\08\
+	    New File  		     179	80613920940ab7957392148726b58a142c15fa  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\0a\
+	    New File  		     569	cce8e623c5ac06fa13278a9f6bb8209c67ad38  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\0b\
+	    New File  		     570	843c70ffe02fbd0421eb8131bf1b6b9a764820  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\0c\
+	    New File  		     569	b3d26f3a2b1c1976b5a82930ab7ce422c767c7  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\0f\
+	    New File  		     568	ffc105e56b0190adb37b5b41aafa823489eb50  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\10\
+	    New File  		     494	988a9813fb1c4070fc2b7da4ece49d489f91b7  0%  100%  
+	    New File  		     510	c6f829304090d8dffae74b42e66bb6d619828a  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\12\
+	    New File  		     435	ccb4b504e7cd800f652e00ab76be51a8f048c6  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\19\
+	    New File  		     438	692e40b88b19321e439550369618e25ab1ef08  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\1f\
+	    New File  		     178	375fca726a745d6b4e799d81cfc9e2495e0382  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\22\
+	    New File  		     567	449e393e769fb2949fcc8682672241c1124348  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\24\
+	    New File  		     178	215bb076e929d15d840fbbac13cb1fa53c0cbd  0%  100%  
+	    New File  		     568	b87b6b579327002f7f1fd3c8484917202fb2a7  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\25\
+	    New File  		     433	4029de1bb6513aa634d926a4f8650d5ddf4c23  0%  100%  
+	    New File  		     179	9785c0a9b92cb11f3773e026fdd405fb613579  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\27\
+	    New File  		     570	9808fadd3ba727a9929bc62924ea26b75984e3  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\29\
+	    New File  		     179	a528452d8a3d64675e603de7a64e670bddf49e  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\2a\
+	    New File  		     456	30488d15500a6ea3a61a19f1323803f69cd642  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\2c\
+	    New File  		     178	2229ede5519c87f1ac9781c3546461ba216ae5  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\2f\
+	    New File  		     569	38b6a01d9164fbddbbdecd236c06da4265da51  0%  100%  
+	    New File  		     571	6e6556f04ebee1b597fb77d0f16691fcea7727  0%  100%  
+	  New Dir          3	D:\ftp_folder\pipeline_demo\.git\objects\32\
+	    New File  		     212	072a97f68951b56d3bcd4f4b4b8278d691c579  0%  100%  
+	    New File  		     460	1d6c335324ae4ff06c8d00b752cc74e8336efe  0%  100%  
+	    New File  		     420	c5694286b2bae2cd1507f4ad0423133451d756  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\33\
+	    New File  		     413	861b48ceb57cc7c02035cd4a9f0f380ab2251c  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\3a\
+	    New File  		     414	5cc5edf40879b3c7314fbde6a6f3a35e93c19e  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\3b\
+	    New File  		     178	d31265c299c83739136d5e570fbef5143fa192  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\3c\
+	    New File  		     496	e964130d687e714dd5712eb00abc41d71dcc73  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\40\
+	    New File  		     178	59b9976e75f35533ea7a4bec7ebaea263135f6  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\41\
+	    New File  		     477	c05f1b3e6c6976ce781fb773100d53045c5ad4  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\45\
+	    New File  		     178	f99449513685b28740815b4956924939a8585a  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\46\
+	    New File  		     568	66aca9c767f9d59d5faf2f306eb82520233d92  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\4a\
+	    New File  		     179	43ea0fed32ad214a04b0ff1d8f3d226145b037  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\4c\
+	    New File  		     566	37c47bf4c72bb9f5705d7bf473e330b3494e6b  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\4e\
+	    New File  		     459	a2723a26b8c83e208f880a1997e5f785b08a45  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\4f\
+	    New File  		     179	3883b7f4e5f67d481fdee783c207b18f1af8a1  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\50\
+	    New File  		     179	960d6a8eb0a2fa056bd8851d17bd9a706e0cba  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\51\
+	    New File  		     566	a9f848846687c0205d2dc14d05ed94160d2a90  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\54\
+	    New File  		     178	464b1f63ee77e61f1932e20efb588be6e0d371  0%  100%  
+	    New File  		     415	77d79e42c6443a1915f633e89edceaa3c902e7  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\55\
+	    New File  		     570	aaa40cf389ca8782ecc8ff64404d5cf95f0f17  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\58\
+	    New File  		     458	fef9c2603c581787e492389c790cd212ffb08f  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\5a\
+	    New File  		     568	db79bde2345b0bde4413e775a140a2ed5fb408  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\5d\
+	    New File  		     179	7dabc20c52d3cb6da4e09bc7a0b2d45f5c18f5  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\62\
+	    New File  		     457	3859ab24093bc8b43e7803f13217465ba8de0f  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\63\
+	    New File  		     572	003705e2a6bff50f59822e8a5d179fc893dc38  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\67\
+	    New File  		     568	39b192e6b8a3210514cf5c7badd22ad0d11236  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\69\
+	    New File  		     433	e99a3581262cb55ab9cc383fb3160b42c9286d  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\6a\
+	    New File  		     435	1c51552cf8664a21ab74812820945f9b16126b  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\6c\
+	    New File  		     425	63552ed46e8a93703c046500084a6b3845c1c5  0%  100%  
+	  New Dir          3	D:\ftp_folder\pipeline_demo\.git\objects\6d\
+	    New File  		     178	4a9ba04ce6693583469f42083e5da574b708b4  0%  100%  
+	    New File  		     571	c7f163cd80b1ef1f66e16ec655f150cc2b4f8e  0%  100%  
+	    New File  		     456	e060c9d93225e0831b7a48de63ce038628a8a6  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\6e\
+	    New File  		     480	a3a0a16fe79cd77da23c6753b854d8f97b9c2c  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\71\
+	    New File  		     179	7480df143d3ce90df9e15f14db47694894a9b5  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\7a\
+	    New File  		     571	97da03d482fd8534d22214923fd782db563185  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\80\
+	    New File  		     569	5de9efed7f1c45148786cf212a1f8b5a00e7dd  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\85\
+	    New File  		     569	6b829d46f7f650a16d79b05d5078cb4419cf97  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\86\
+	    New File  		     179	92a9b68f59e5b0b416756850b15e1ec4da6655  0%  100%  
+	    New File  		     178	d8b8fc0346ee659630d897226e829f5d9a6191  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\89\
+	    New File  		     178	3f0d18d0888aa053a4bb65a68aba81794f7dbb  0%  100%  
+	    New File  		     570	5136e3f318ff7e4caa5259cfa41e196c6b51e2  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\8b\
+	    New File  		     443	78ea53bb5901b99f30c1ebec9219c90426ef2e  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\8d\
+	    New File  		     478	a650c2ddc4766387951e7d77b61c85a3aefb75  0%  100%  
+	    New File  		     564	fcd2d5a9bc2ec31c6f92be269bd435063ab0a4  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\96\
+	    New File  		     178	c442aedd72e205340046f2f203f2e84f2c4362  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\99\
+	    New File  		     178	776d4eb80f4229e8594a97a1d773584154fd05  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\9b\
+	    New File  		     431	f1e6808c84fdf099b9b8d51a30996382da5d4e  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\9d\
+	    New File  		     179	ade79197a79897c525fd2ad5c0f314679fa939  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\9e\
+	    New File  		     178	f447a60b78532c628430440a4d5f9fd790660d  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\a3\
+	    New File  		     569	489ea4d562c53bd760c5783cf90c8a42d4bcb1  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\a4\
+	    New File  		     179	e9436efe35cfc0eee84a974623f482e9e95476  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\a5\
+	    New File  		     566	076c5c58b4e561f85fc50cb71b9a546d45e154  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\a7\
+	    New File  		     501	900cebf832226e05e582039e3639aa52104365  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\aa\
+	    New File  		     178	4c203a27a9dc8aafe76c9689aee0f928a9d105  0%  100%  
+	    New File  		     179	826201be8fd863a2f56818efcf4ce9f284791a  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\ab\
+	    New File  		     179	f25f8bc5f67ba22218af677b943be9c8946016  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\ac\
+	    New File  		     566	0af5c5f0d31994842d7b81ea9454513af50f4c  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\b3\
+	    New File  		     567	4306ac5e971de2464260c63f815c863d83c48d  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\b5\
+	    New File  		     179	6975756b01f7c0e40369f4df4f70cf1de4d208  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\b7\
+	    New File  		     459	f8b515e48998d027f061be94039a2797324f0d  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\ba\
+	    New File  		     433	c1e749d0e9cf2438ee844e5141b2748469a2fc  0%  100%  
+	    New File  		     178	c734109b4bd2cf9d9a02ec87e3fb966a8b7afb  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\bb\
+	    New File  		     177	3ba6266aab27004f9e9bd79c8b24738d8c21e0  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\bc\
+	    New File  		     508	bd71a239b9368022f15896b0bebea305b81df9  0%  100%  
+	    New File  		     568	f44584fba432c49fdf64674543361525651d32  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\bf\
+	    New File  		     570	781f03229efba042f05b3e0ddad415d9bd7090  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\c0\
+	    New File  		     463	1d5686473260552387e5a845f29a376823d5f5  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\c3\
+	    New File  		     487	a424a9f90ba998f42527554a515e44c29e88ab  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\c6\
+	    New File  		     570	857a3c230c53ebe5cdd20ff7aadac65f781a86  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\c8\
+	    New File  		     179	13f5d72ad03c44554653a8328f9ab94d56980d  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\c9\
+	    New File  		     570	573efa9ba151381ddd7751d93ff20d279f9511  0%  100%  
+	    New File  		     569	c57f7d9740910ad820e54e02d898759e16658d  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\cd\
+	    New File  		     333	083b701a7e3cfaf6f6dca36032abf4dfa3cb97  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\ce\
+	    New File  		     561	45768930b2c69abe5df09f42310d493b9d9903  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\d0\
+	    New File  		     178	4277b234ba56e178120567596bf3eacf8d5400  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\d1\
+	    New File  		     570	40a940ff6135d01b766b609958bd61f75af073  0%  100%  
+	    New File  		     491	e8fcc2c58797fd43272c3c35e82b9ca62d0394  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\d6\
+	    New File  		     179	1cb0ef398065c71530301bd0d560a0200be034  0%  100%  
+	    New File  		     178	1e23895fff62512cfa18a3d5c7e68120c662db  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\d7\
+	    New File  		     566	a6bb34e75c345a96c3fad46527551aa7c8cb21  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\d8\
+	    New File  		     568	5d834755a6a313ea4531d8c01947fc79698eb4  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\dc\
+	    New File  		     567	7d05fac4adc62c51759059f10df846fdae116c  0%  100%  
+	    New File  		     179	c2e9b0d32442e7e05626ef5117c06a9c9c335a  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\dd\
+	    New File  		     480	4fe25fce2dd066cf9c04b7708613748ca49f53  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\df\
+	    New File  		     179	0996f6a00c6b3c781bb2256370598bc65c034f  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\e1\
+	    New File  		     570	440c755c10bba5700065892ad5d288543fbc08  0%  100%  
+	    New File  		     178	df92a364f156faecf8ec4a3ad1a6be63dafcf6  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\e5\
+	    New File  		     567	0f37f7dc83aa1fcbc363a03f195d50cedb86aa  0%  100%  
+	    New File  		     568	5c8e48b6743ee176860effc34cf11058518fc5  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\e6\
+	    New File  		     570	f83c0ba300fba7c3b3c1a4488ba6a560d085bd  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\e8\
+	    New File  		     439	1a73d0e9eee65ebab05c7ca404310ca2643bb5  0%  100%  
+	  New Dir          3	D:\ftp_folder\pipeline_demo\.git\objects\e9\
+	    New File  		     416	a7b17b320f0676dfb023d8fb921a90821856fb  0%  100%  
+	    New File  		     178	bc24ac10ac5b10949665499a0a4eeb528734f3  0%  100%  
+	    New File  		     178	d1f426c2dc8793642ea9d224792a45dc6ff06e  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\ea\
+	    New File  		     465	75ed17dd35a1f952b327a6732acc0ff1b6519c  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\eb\
+	    New File  		     437	bbacbf4824b5c1ee2e4763300715886db9a332  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\ee\
+	    New File  		     571	6d07715b0b57b0ddd1993ad71ea92d9c046867  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\f3\
+	    New File  		     566	f3506abd4c63a9eaa2ccb4ab0aefc5cac855f0  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\f6\
+	    New File  		     505	d8d6f1f79fb38f07c047285ef5bedf6001ea2b  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\f8\
+	    New File  		     427	610bfc2de0733431779bfe17463ebb32cbc121  0%  100%  
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\f9\
+	    New File  		     175	9ecce79a6984eea53a89351e6fd028fd5affdb  0%  100%  
+	    New File  		     179	b7bec08f2a8fee49c152a3c40b9d8aa3f07af3  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\fa\
+	    New File  		     567	1fa19889801c411d682a8d1069e12cd140bd21  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\fb\
+	    New File  		     178	2b441c257f759d4603e0a152fb7170545234f2  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\fd\
+	    New File  		     444	d6f97194c790dc1e613d5f85dacf369eb2aca4  0%  100%  
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\objects\fe\
+	    New File  		     569	9887f6aa327f3d6de1d7d4718abc2dc16c5cf8  0%  100%  
+	  New Dir          0	D:\ftp_folder\pipeline_demo\.git\objects\info\
+	  New Dir          2	D:\ftp_folder\pipeline_demo\.git\objects\pack\
+	    New File  		   10004	pack-1645c3e559c409f0b1dd8937ec045dfe0be4afe2.idx  0%  100%  
+	    New File  		   72863	pack-1645c3e559c409f0b1dd8937ec045dfe0be4afe2.pack  0%  100%  
+	  New Dir          0	D:\ftp_folder\pipeline_demo\.git\refs\
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\refs\heads\
+	    New File  		      41	master  0%  100%  
+	  New Dir          0	D:\ftp_folder\pipeline_demo\.git\refs\remotes\
+	  New Dir          1	D:\ftp_folder\pipeline_demo\.git\refs\remotes\origin\
+	    New File  		      41	master  0%  100%  
+	  New Dir          0	D:\ftp_folder\pipeline_demo\.git\refs\tags\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       123       122         1         0         0         3
+   Files :       161       161         0         0         0         2
+   Bytes :   185.3 k   185.3 k         0         0         0   758.2 k
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1741642 Bytes/sec.
+   Speed :              99.657 MegaBytes/min.
+
+   Ended : Tue Dec 11 16:42:34 2018
+[8mha:////4Kq5X1abHO4IsAdgWo2SYNfDhOQHMG5POd2xFo9POH1uAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBA1CqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw+dgWTEvgAAAA==[0m[Pipeline] }
+[8mha:////4IsxS3lmUuLPg4rzzkSuz4E3LdbOux3jIZ7+0mxkZ8NlAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiAQUSSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wApcP3Nb4AAAA=[0m[Pipeline] // withEnv
+[8mha:////4L1vSfyUd7/d9P/wHK07hx5irjaH6B20kR6a0GJ/dPl8AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSBNEgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AEHPRMZvgAAAA==[0m[Pipeline] }
+[8mha:////4I6G6FNGkqj3UVxD+PNipO40gQSof0K5HTn330OHnuzeAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIpCBWiSmul4QUmPowT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYMRPdJgKXZWeDeavMTEYbg6nkTPF9ExRXYoWpxa1tgs2HJCWFKUsJKwQeocR0smwVb26qEqp8hU5xTyd5RQWn2HJxQym5MK6QtzgN1t1JHp5/krgNn7BGVd59ofPgVcH52+AAAA[0m[Pipeline] // node
+[8mha:////4Ijdu09GlnQzpexGOMI1FCsSGxpQP/DG0TTDkjnh2tVsAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIpCBWiSmul4QUmPowT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYMRPdJgKXZWeDeavMTEYbg6nkTPF9ExRXYoWpxa1tgs2HJCWFKUsJKwQeocR0smwVb26qEqp8hU5xTyd5RQWn2HJxQym5MK6QtzgN1t1JHp5/krgNn7BGV9yLWvPza/RCG+AAAA[0m[Pipeline] }
+[8mha:////4KgIgjcJU0hdvZ0kUfGU1y59DZOiCmuUr0WuMwECHgHAAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSBNEgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3h1x1/QE7WLQ5vgAAAA==[0m[Pipeline] // stage
+[8mha:////4ISW2tR4BP6CCobVHbOOTzuXd0vx8aQAiRQyvNRvzxLPAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKREBIFoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/tBdn2AxPDy9m9AAAA[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 3
+Finished: FAILURE

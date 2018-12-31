@@ -1,0 +1,30 @@
+Started by user [8mha:////4LrDacuDmq0lZDuB4Y3qjLi6DKCOoVYUxCgEOtH69BqRAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzlEgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIARQy3UNIAAAA=[0mjayanagavenkatasudhakar.bavirisetty
+Building remotely on [8mha:////4H/QugjR4IuM1qDFL+Vr7XMOstZ52iDbqChZ9HBypvxyAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYJ/eT83ILSktQi/cT01LyS+NzKkozMnEwjAGNeD3TNAAAA[0magent_mythili2 (windows) in workspace D:\jenkins_jaya\workspace\Tsk1.2_pulling_source_code_from_github
+Cloning the remote Git repository
+Cloning repository https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe init D:\jenkins_jaya\workspace\Tsk1.2_pulling_source_code_from_github # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision b4c90555255a7a2c1b47f42d3cdb54af64282746 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f b4c90555255a7a2c1b47f42d3cdb54af64282746
+Commit message: "Delete jenkins_1"
+ > git.exe rev-list --no-walk db8572319da51d721544c599b902022821c2ee47 # timeout=10
+No emails were triggered.
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+Not sending mail to unregistered user noreply@github.com because your SCM claimed this was associated with a user ID ‘[8mha:////4PhKsaPYzXHm6NsPt0WO6curzGx7eFY/cC/gIbQd5PJHAAAAjh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgL2Hg1S8tTi3Sz8svSi3IqQQAmoRtrZIAAAA=[0mnoreply' which your security realm does not recognize; you may need changes in your SCM plugin
+An attempt to send an e-mail to empty list of recipients, ignored.
+Sending email for trigger: Success
+Not sending mail to unregistered user noreply@github.com because your SCM claimed this was associated with a user ID ‘[8mha:////4PhKsaPYzXHm6NsPt0WO6curzGx7eFY/cC/gIbQd5PJHAAAAjh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgL2Hg1S8tTi3Sz8svSi3IqQQAmoRtrZIAAAA=[0mnoreply' which your security realm does not recognize; you may need changes in your SCM plugin
+An attempt to send an e-mail to empty list of recipients, ignored.
+Finished: SUCCESS

@@ -1,0 +1,23 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\Tsk1.1_pulling_source_code_from_git
+Cloning the remote Git repository
+Cloning repository git@gitserver:JIAVBStack.git
+ > git.exe init C:\Program Files (x86)\Jenkins\workspace\Tsk1.1_pulling_source_code_from_git # timeout=10
+Fetching upstream changes from git@gitserver:JIAVBStack.git
+ > git.exe --version # timeout=10
+using GIT_SSH to set credentials 
+ > git.exe fetch --tags --progress git@gitserver:JIAVBStack.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe config remote.origin.url git@gitserver:JIAVBStack.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url git@gitserver:JIAVBStack.git # timeout=10
+Fetching upstream changes from git@gitserver:JIAVBStack.git
+using GIT_SSH to set credentials 
+ > git.exe fetch --tags --progress git@gitserver:JIAVBStack.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/srp^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/srp^{commit}" # timeout=10
+Checking out Revision a1ea4a32df747f8daa2aed743bd4798c4baf943e (refs/remotes/origin/srp)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f a1ea4a32df747f8daa2aed743bd4798c4baf943e
+Commit message: "Added all review points"
+ > git.exe rev-list --no-walk a1ea4a32df747f8daa2aed743bd4798c4baf943e # timeout=10
+Finished: SUCCESS

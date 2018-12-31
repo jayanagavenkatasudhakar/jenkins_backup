@@ -1,0 +1,34 @@
+Started by user [8mha:////4LrDacuDmq0lZDuB4Y3qjLi6DKCOoVYUxCgEOtH69BqRAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzlEgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIARQy3UNIAAAA=[0mjayanagavenkatasudhakar.bavirisetty
+Building remotely on [8mha:////4H/QugjR4IuM1qDFL+Vr7XMOstZ52iDbqChZ9HBypvxyAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYJ/eT83ILSktQi/cT01LyS+NzKkozMnEwjAGNeD3TNAAAA[0magent_mythili2 (windows) in workspace D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer
+Cloning the remote Git repository
+Cloning repository https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe init D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/jayanagavenkatasudhakar/jenkins.git # timeout=10
+Fetching upstream changes from https://github.com/jayanagavenkatasudhakar/jenkins.git
+ > git.exe fetch --tags --progress https://github.com/jayanagavenkatasudhakar/jenkins.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision b4c90555255a7a2c1b47f42d3cdb54af64282746 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f b4c90555255a7a2c1b47f42d3cdb54af64282746
+Commit message: "Delete jenkins_1"
+ > git.exe rev-list --no-walk b4c90555255a7a2c1b47f42d3cdb54af64282746 # timeout=10
+No emails were triggered.
+FTP: Connecting from host [JPC637]
+FTP: Connecting with configuration [ftp_jaya_server] ...
+FTP: Disconnecting configuration [ftp_jaya_server] ...
+FTP: Transferred 0 file(s)
+Build step 'Send files over FTP' changed build result to SUCCESS
+Email was triggered for: Always
+Email was triggered for: Success
+Sending email for trigger: Always
+An attempt to send an e-mail to empty list of recipients, ignored.
+Sending email for trigger: Success
+An attempt to send an e-mail to empty list of recipients, ignored.
+Triggering a new build of [8mha:////4NGzioviqea5/m6vKeokEYhGiOi0LCgm6hd2EcjkcdtUAAAAtx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzNEgZ9/az8JP2Q4mwzPaN4t6LU1OKSypzUeKBgfFJpZk4K0ND4xLyU+BKgBJCtDwBAxo9t5AAAAA==[0mTsk6.2_Freestyle_job_building_and_testing
+Finished: SUCCESS

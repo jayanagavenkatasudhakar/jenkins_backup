@@ -1,0 +1,27 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace C:\Program Files (x86)\Jenkins\workspace\ftp_1
+[ftp_1] $ cmd /c call C:\WINDOWS\TEMP\jenkins1120828935209371452.bat
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>open 10.1.4.192 
+'open' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>jayanagavenkatasudha
+'jayanagavenkatasudha' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>Jasmin@7
+'Jasmin@7' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>get jenkinfile_1 
+'get' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>quit
+'quit' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Jenkins\workspace\ftp_1>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

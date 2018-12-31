@@ -1,0 +1,8 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building on master in workspace E:\work_place\scripts\new
+[new] $ cmd /c call C:\WINDOWS\TEMP\jenkins5097091482737191377.bat
+
+E:\work_place\scripts\new>E:\work_place\scripts\madhubala_download_script.bat
+
+E:\work_place\scripts\new>ncftpget -R -u madhubala -p Madhu@123 ftp://10.1.4.56/git_jenkins E:\work_place\scripts\new 
+Finished: SUCCESS

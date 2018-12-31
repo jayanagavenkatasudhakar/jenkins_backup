@@ -1,0 +1,38 @@
+Started by user [8mha:////4MysMQCf1D+OCnlKOheSkx4Uc8bQBDtISmx1ixb2fyVuAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgZZ/dLi1CL9rMTKxLzE9MSy1LzsxJLE4tKUjMTsxCIAet+PvdIAAAA=[0mjaya naga venkata sudhakar bavirisetty
+Building remotely on [8mha:////4Nw/3Ojz7pJXU6dZgH7Vl+sj2Kiztb6luOHXc/hIFadzAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYJ/eT83ILSktQi/cT01LyS+NzKkozMnEwjAGNeD3TNAAAA[0magent_mythili2 (windows) in workspace D:\jenkins_jaya\workspace\Tsk6.2_Freestyle_job_building_and_testing
+No emails were triggered.
+[Tsk6.2_Freestyle_job_building_and_testing] $ cmd /c call C:\Users\mythili\AppData\Local\Temp\jenkins1632897047807239948.bat
+
+D:\jenkins_jaya\workspace\Tsk6.2_Freestyle_job_building_and_testing>bat """  
+'bat' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\jenkins_jaya\workspace\Tsk6.2_Freestyle_job_building_and_testing>javac D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer\Demo.java 
+'javac' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\jenkins_jaya\workspace\Tsk6.2_Freestyle_job_building_and_testing>cd "D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer" 
+
+D:\jenkins_jaya\workspace\Tsk6.1_Freestyle_job_for_pull_and_transfer>C:
+
+C:\>java Demo 
+Error: Could not find or load main class Demo
+
+C:\>"""
+'"""' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>echo 'YES!!###!!!Task6.2 completed777' 
+'YES!!###!!!Task6.2 completed777'
+
+C:\>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Email was triggered for: Always
+Email was triggered for: Failure - Any
+Email was triggered for: Failure - Still
+Trigger Failure - Any was overridden by another trigger and will not send an email.
+Sending email for trigger: Always
+Sending email to: jayanagavenkatasudhakar.bavirisetty@jasmin-infotech.com madhubala.subbaiya@jasmin-infotech.com
+Sending email for trigger: Failure - Still
+An attempt to send an e-mail to empty list of recipients, ignored.
+Finished: FAILURE
